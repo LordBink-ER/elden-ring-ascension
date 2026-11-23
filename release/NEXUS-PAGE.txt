@@ -1,0 +1,107 @@
+NEXUS MODS UPLOAD - copy each part into the matching field
+==========================================================================
+
+MOD NAME
+Elden Ring Ascension - Roguelite Cards
+
+VERSION
+{VERSION}
+
+CATEGORY
+Gameplay  (or "Overhauls" if you prefer)
+
+BRIEF OVERVIEW (max 350 characters)
+Beat a boss and pick 1 of 3 cards. 261 permanent powers with 5 levels each, from Common to Mythic and the ultra-rare Prismatic cards with a MAX WIN reveal. 9 Paths, Signature cards from 31 great bosses and Keystones. Every attribute gets a new role. Plays offline on its own save with Mod Engine 3.
+
+REQUIREMENTS (add as "off-site requirement")
+Mod Engine 3 (me3) - https://github.com/garyttierney/me3/releases
+
+TAGS
+Gameplay, Overhaul, Roguelite, Cards, Progression, Bosses, Difficulty, UI
+
+AI CONTENT
+Tick the AI-generated content option on the upload form if it is offered;
+the description already says how AI was used.
+
+PERMISSIONS (suggestion)
+Mod's own code/data are MIT. Suggested Nexus settings: credit required,
+uploading to other sites only with permission, assets usable in other mods
+with credit. Third-party parts keep their own licenses (in the zip).
+
+IMAGES (release/images)
+cover.png first (primary image), then prismatic.png and cards.png. They are
+key art made from the mod's own card artwork, not in-game screenshots.
+Real gameplay screenshots of the card offer and the F7 menu make a page
+stronger if you have some.
+
+FILE NAME / FILE DESCRIPTION
+ELDEN RING Ascension {VERSION}
+Main file. Extract anywhere you can write to, then start with Launch Ascension.bat (Windows) or launch-ascension-linux.sh (Linux). Needs Mod Engine 3 and game version {APP_VERSION}.
+
+==========================================================================
+PAGE TEXT IN PARTS - plain text, one block per field
+==========================================================================
+
+----- DESCRIPTION -----
+ELDEN RING: ASCENSION - Roguelite cards for the Lands Between, by Lord Bink.
+
+Every boss is a card draw. Beat a boss for the first time and choose 1 of 3 cards. Each card is a permanent power for that character. It can add damage, cast a spell when you perfect dodge or land a critical, build up statuses, strengthen your allies, earn you more runes or keep you alive. Pick the same card again and it grows a level, up to V. Cards range from Common all the way up to Mythic, and above Mythic sit the ultra-rare Prismatic cards. No two characters end up the same.
+
+This is the first public release, and so far it has only been played on Lord Bink's own Linux (Proton) setup. If anything seems wrong, please report it in the Bugs tab and attach logs\runtime.jsonl from the mod folder.
+
+AI disclosure: this mod was built with AI. The code, the card designs, the art scripts and the sound scripts were written by AI coding agents, Claude (Anthropic, in Claude Code) and Codex (OpenAI), and the whole mod was directed and played by Lord Bink. The card artwork is painted procedurally and the sounds are synthesized by the mod's own scripts, so no game assets are reused.
+
+ELDEN RING belongs to FromSoftware / Bandai Namco. This is a fan-made mod and is not affiliated with them.
+
+----- INSTALLATION INSTRUCTIONS -----
+Windows
+1. Install Mod Engine 3 (me3): https://github.com/garyttierney/me3/releases
+2. Extract the zip to a folder you can write to, for example Documents\Ascension. Do not use Program Files or the game folder.
+3. Double-click "Launch Ascension.bat" (or ascension.me3).
+4. When the mod is running, the title screen shows ASCENSION and the version in the bottom-left corner.
+
+Linux / Steam Deck
+1. Install Mod Engine 3 for Linux. ELDEN RING must use Proton, and Steam must be running.
+2. Extract the zip to a folder in your home directory.
+3. Run launch-ascension-linux.sh.
+
+First steps
+The mod uses its own save file (ER0000.ascension.sl2), so your normal save is never touched. Start a new character and play offline. Press F7 to open the collection. Its Guide tab explains everything in short lines.
+
+Updating
+When you install a new version, keep the "state" and "local" folders, because your cards are stored there.
+
+Uninstalling
+Delete the mod folder. Your normal save was never changed. The Ascension save stays in the game's save folder until you delete it yourself.
+
+----- MAIN FEATURES -----
+- 261 cards with 5 levels each, from Common to Mythic plus Prismatic. Every card has its own artwork.
+- 9 Paths: Ferocity, Celerity, Malice, Resonance, Fortitude, Evasion, Thirst, Fortune and Command. Every card level gives a Path point, and 5, 10 and 15 points unlock a Path bonus.
+- 31 Signature cards: the first time you beat a great boss from the base game or Shadow of the Erdtree, it always offers its own card with its own spell, such as Loretta's greatbow, Rennala's full moon or the Starscourge's meteorite.
+- 18 Keystones: legendary cards that change how you play.
+- 10 Prismatic cards: the rarest tier, above Mythic. About two show up in a whole playthrough. They shine in every colour at once and turn over with a very loud MAX WIN. At full level they give things like +30 to every attribute, four Meteorites of Astel every 3 seconds, or surviving a deadly blow every 45 seconds.
+- Every attribute gets a second role on top of what it already does. Vigor helps you survive, Mind adds FP and spirit power, Endurance adds stamina and poise, Strength boosts heavy and charged attacks, Dexterity speeds up attacks and ripostes, Intelligence powers dodges and card spells, Faith adds protection and better flasks, and Arcane brings runes, luck and statuses. The panel next to Level Up shows what each point adds before you confirm. Talismans and Physick tears that raise attributes raise these bonuses too.
+- Embers: spend them to reroll an offer, lock a card for the next offer, banish a card for good, or take runes instead of a card.
+- A harder world: enemies and bosses are stronger and give more runes. The Tide rises as your cards grow, and from Tide I bosses can come back as Ascended bosses with extra affixes and a better reward.
+- Combat moments: STANCE BROKEN, RIPOSTE, BACKSTAB, PERFECT DODGE, EXECUTED and RAMPAGE appear on screen with their own sounds, together with the names of the cards that reacted.
+- Balanced with care: bonuses stack with soft caps, so strong builds feel strong without breaking the game.
+- All in-game text is in English, short and with simple numbers.
+
+----- REQUIREMENTS -----
+- ELDEN RING on Steam, game version {APP_VERSION} exactly (the title screen shows "App Ver. {APP_VERSION}"), on Windows or on Linux / Steam Deck with Proton. After a game update, wait for a mod update.
+- Mod Engine 3 (me3): https://github.com/garyttierney/me3/releases
+- The game must have been started at least once, so that its save folder exists.
+- Shadow of the Erdtree is not required, but the mod fully covers it: all 42 DLC bosses give cards, and 11 of the 31 Signature cards come from DLC bosses, including Messmer, Rellana, Bayle and Promised Consort Radahn. Without the DLC you get everything from the base game. The mod was made and played with the DLC; setups without it have not been tried yet.
+
+Compatibility
+- It does not work together with other mods that replace regulation.bin (Convergence, Reforged, randomizers and similar) or with Seamless Co-op.
+- It is offline only.
+- If an old dinput8.dll or winhttp.dll mod loader is in the game folder, move it out, otherwise the mod switches itself off.
+
+----- SHOUT-OUTS -----
+- Mod Engine 3 by garyttierney and contributors, which loads the mod: https://github.com/garyttierney/me3
+- fromsoftware-rs by Vincent Swarte and contributors, which lets the mod talk to Elden Ring: https://github.com/vswarte/eldenring-rs
+- hudhook by Andrea Venuta and Dear ImGui by Omar Cornut, which draw the in-game menus: https://github.com/veeenu/hudhook and https://github.com/ocornut/imgui
+- EROverlay by Soar Qin, for the boss names and flags: https://github.com/soarqin/EROverlay
+- The Noto Serif Display and DejaVu Sans fonts.
+- Many Rust libraries, all listed in THIRD-PARTY-NOTICES.txt inside the zip.

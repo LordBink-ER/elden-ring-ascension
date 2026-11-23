@@ -1,0 +1,8 @@
+target/
+/state/
+/local/
+/logs/
+/dist/
+/mod/
+__pycache__/
+*.sl2

@@ -1,0 +1,563 @@
+{
+  "schema": 1,
+  "about": "Ascension 0.3 proc catalog. Each proc clones a vanilla player bullet chain (root + HitBulletID / intervalCreateBulletId children) into its own row range, with its own fixed-damage AtkParam_Pc rows (Explosive Stone hit template). tools/build_params.py writes the rows and config/procs-rows.json; the DLL rewrites the AtkParam damage at spawn time from card level, character level, attributes and NG+.",
+  "atk_template": 10183000,
+  "row_base": 95100000,
+  "row_stride": 100,
+  "procs": [
+    {
+      "id": "glintstone_bolt",
+      "name": "Glintstone bolt",
+      "root": 10400000,
+      "element": {
+        "magic": 1.0
+      },
+      "scaling": {
+        "intelligence": 1.0
+      },
+      "spawn": "shoulder",
+      "aim": "target",
+      "homing": true,
+      "range": 20.0,
+      "overrides": {
+        "life": 1.7
+      }
+    },
+    {
+      "id": "crystal_burst",
+      "name": "Crystal burst",
+      "root": 10409000,
+      "element": {
+        "magic": 1.0
+      },
+      "scaling": {
+        "intelligence": 0.7,
+        "strength": 0.3
+      },
+      "spawn": "chest",
+      "aim": "target",
+      "homing": false,
+      "range": 11.0
+    },
+    {
+      "id": "flame_sling",
+      "name": "Flame sling",
+      "root": 10601000,
+      "element": {
+        "fire": 1.0
+      },
+      "scaling": {
+        "faith": 0.7,
+        "strength": 0.3
+      },
+      "spawn": "shoulder",
+      "aim": "target",
+      "homing": true,
+      "range": 18.0
+    },
+    {
+      "id": "catch_flame",
+      "name": "Catch flame",
+      "root": 10600001,
+      "element": {
+        "fire": 1.0
+      },
+      "scaling": {
+        "faith": 0.6,
+        "dexterity": 0.4
+      },
+      "spawn": "at_self",
+      "aim": "forward",
+      "homing": false,
+      "range": 3.0
+    },
+    {
+      "id": "bloodflame_burst",
+      "name": "Bloodflame burst",
+      "root": 10630001,
+      "element": {
+        "fire": 0.5,
+        "physical": 0.5
+      },
+      "scaling": {
+        "arcane": 1.0
+      },
+      "spawn": "at_target",
+      "aim": "forward",
+      "homing": false,
+      "range": 30.0
+    },
+    {
+      "id": "wrath_of_gold",
+      "name": "Wrath of gold",
+      "root": 10641000,
+      "element": {
+        "holy": 1.0
+      },
+      "scaling": {
+        "faith": 1.0
+      },
+      "spawn": "at_self",
+      "aim": "forward",
+      "homing": false,
+      "range": 4.0
+    },
+    {
+      "id": "rejection",
+      "name": "Rejection",
+      "root": 10640000,
+      "element": {
+        "holy": 1.0
+      },
+      "scaling": {
+        "faith": 0.5,
+        "vigor": 0.5
+      },
+      "spawn": "at_self",
+      "aim": "forward",
+      "homing": false,
+      "range": 2.0
+    },
+    {
+      "id": "ghostflame_burst",
+      "name": "Ghostflame burst",
+      "root": 10501000,
+      "element": {
+        "magic": 1.0
+      },
+      "scaling": {
+        "arcane": 0.5,
+        "intelligence": 0.5
+      },
+      "spawn": "at_target",
+      "aim": "forward",
+      "homing": false,
+      "range": 30.0
+    },
+    {
+      "id": "rancor_spirits",
+      "name": "Rancor spirits",
+      "root": 10500000,
+      "element": {
+        "magic": 1.0
+      },
+      "scaling": {
+        "arcane": 0.6,
+        "intelligence": 0.4
+      },
+      "spawn": "at_target",
+      "aim": "up",
+      "homing": true,
+      "range": 30.0
+    },
+    {
+      "id": "pest_threads",
+      "name": "Pest threads",
+      "root": 10720000,
+      "element": {
+        "physical": 1.0
+      },
+      "scaling": {
+        "faith": 0.5,
+        "arcane": 0.5
+      },
+      "spawn": "shoulder",
+      "aim": "target",
+      "homing": true,
+      "range": 14.0
+    },
+    {
+      "id": "ruin_stars",
+      "name": "Stars of ruin",
+      "root": 10422015,
+      "element": {
+        "magic": 1.0
+      },
+      "scaling": {
+        "intelligence": 1.0
+      },
+      "spawn": "shoulder",
+      "aim": "target",
+      "homing": true,
+      "range": 25.0
+    },
+    {
+      "id": "meteorite",
+      "name": "Meteorite",
+      "root": 10470002,
+      "element": {
+        "physical": 0.6,
+        "magic": 0.4
+      },
+      "scaling": {
+        "strength": 0.5,
+        "intelligence": 0.5
+      },
+      "spawn": "above_target",
+      "aim": "down",
+      "homing": false,
+      "range": 25.0
+    },
+    {
+      "id": "black_flame",
+      "name": "Black flame",
+      "root": 10621000,
+      "element": {
+        "fire": 1.0
+      },
+      "scaling": {
+        "faith": 1.0
+      },
+      "spawn": "shoulder",
+      "aim": "target",
+      "homing": true,
+      "range": 18.0
+    },
+    {
+      "id": "fly_swarm",
+      "name": "Swarm of flies",
+      "root": 10721000,
+      "element": {
+        "physical": 1.0
+      },
+      "scaling": {
+        "arcane": 1.0
+      },
+      "spawn": "chest",
+      "aim": "target",
+      "homing": true,
+      "range": 12.0
+    },
+    {
+      "id": "bestial_sling",
+      "name": "Bestial sling",
+      "root": 10680000,
+      "element": {
+        "physical": 1.0
+      },
+      "scaling": {
+        "strength": 0.7,
+        "faith": 0.3
+      },
+      "spawn": "chest",
+      "aim": "target",
+      "homing": false,
+      "range": 9.0
+    },
+    {
+      "id": "storm_spear",
+      "name": "Lightning spear",
+      "root": 10690000,
+      "element": {
+        "lightning": 1.0
+      },
+      "scaling": {
+        "faith": 0.6,
+        "dexterity": 0.4
+      },
+      "spawn": "shoulder",
+      "aim": "target",
+      "homing": true,
+      "range": 25.0
+    },
+    {
+      "id": "sky_bolt",
+      "name": "Lightning strike",
+      "root": 10692011,
+      "element": {
+        "lightning": 1.0
+      },
+      "scaling": {
+        "faith": 0.5,
+        "dexterity": 0.5
+      },
+      "spawn": "at_target",
+      "aim": "forward",
+      "homing": false,
+      "range": 30.0
+    },
+    {
+      "id": "zamor_frost",
+      "name": "Zamor frost",
+      "root": 10441000,
+      "element": {
+        "magic": 1.0
+      },
+      "scaling": {
+        "intelligence": 0.6,
+        "endurance": 0.4
+      },
+      "spawn": "at_self",
+      "aim": "forward",
+      "homing": false,
+      "range": 3.0
+    },
+    {
+      "id": "elden_stars",
+      "name": "Elden stars",
+      "root": 10672000,
+      "element": {
+        "holy": 1.0
+      },
+      "scaling": {
+        "faith": 1.0
+      },
+      "spawn": "shoulder",
+      "aim": "target",
+      "homing": true,
+      "range": 18.0
+    },
+    {
+      "id": "fell_pyre",
+      "name": "Flame of the fell god",
+      "root": 10611005,
+      "element": {
+        "fire": 1.0
+      },
+      "scaling": {
+        "faith": 0.5,
+        "strength": 0.5
+      },
+      "spawn": "at_target",
+      "aim": "forward",
+      "homing": false,
+      "range": 30.0
+    },
+    {
+      "id": "full_moon",
+      "name": "Rennala's full moon",
+      "root": 10436000,
+      "element": {
+        "magic": 1.0
+      },
+      "scaling": {
+        "intelligence": 1.0
+      },
+      "spawn": "shoulder",
+      "aim": "target",
+      "homing": true,
+      "range": 25.0
+    },
+    {
+      "id": "ancient_lightning",
+      "name": "Ancient dragons' lightning",
+      "root": 10691011,
+      "element": {
+        "lightning": 1.0
+      },
+      "scaling": {
+        "faith": 0.5,
+        "dexterity": 0.5
+      },
+      "spawn": "at_target",
+      "aim": "forward",
+      "homing": false,
+      "range": 30.0
+    },
+    {
+      "id": "black_flame_ritual",
+      "name": "Black flame ritual",
+      "root": 10625001,
+      "element": {
+        "fire": 1.0
+      },
+      "scaling": {
+        "faith": 1.0
+      },
+      "spawn": "at_target",
+      "aim": "forward",
+      "homing": false,
+      "range": 25.0
+    },
+    {
+      "id": "bloodboon",
+      "name": "Bloodboon",
+      "root": 10631000,
+      "element": {
+        "fire": 0.5,
+        "physical": 0.5
+      },
+      "scaling": {
+        "arcane": 1.0
+      },
+      "spawn": "above_target",
+      "aim": "down",
+      "homing": false,
+      "range": 30.0
+    },
+    {
+      "id": "death_rancor",
+      "name": "Ancient death rancor",
+      "root": 10500100,
+      "element": {
+        "magic": 1.0
+      },
+      "scaling": {
+        "arcane": 0.5,
+        "intelligence": 0.5
+      },
+      "spawn": "at_target",
+      "aim": "up",
+      "homing": true,
+      "range": 30.0
+    },
+    {
+      "id": "scarlet_aeonia",
+      "name": "Scarlet aeonia",
+      "root": 10724000,
+      "element": {
+        "physical": 1.0
+      },
+      "scaling": {
+        "faith": 0.5,
+        "arcane": 0.5
+      },
+      "spawn": "at_target",
+      "aim": "forward",
+      "homing": false,
+      "range": 20.0
+    },
+    {
+      "id": "astel_meteor",
+      "name": "Meteorite of Astel",
+      "root": 10470105,
+      "element": {
+        "magic": 1.0
+      },
+      "scaling": {
+        "intelligence": 1.0
+      },
+      "spawn": "above_target",
+      "aim": "down",
+      "homing": false,
+      "range": 25.0
+    },
+    {
+      "id": "black_blade",
+      "name": "Black blade",
+      "root": 10753000,
+      "element": {
+        "holy": 1.0
+      },
+      "scaling": {
+        "faith": 0.6,
+        "strength": 0.4
+      },
+      "spawn": "chest",
+      "aim": "target",
+      "homing": false,
+      "range": 18.0
+    },
+    {
+      "id": "placidusax_ruin",
+      "name": "Placidusax's ruin",
+      "root": 10705000,
+      "element": {
+        "fire": 0.5,
+        "lightning": 0.5
+      },
+      "scaling": {
+        "faith": 0.6,
+        "dexterity": 0.4
+      },
+      "spawn": "above_target",
+      "aim": "down",
+      "homing": false,
+      "range": 20.0
+    },
+    {
+      "id": "frenzied_burst",
+      "name": "Frenzied burst",
+      "root": 10732000,
+      "element": {
+        "fire": 1.0
+      },
+      "scaling": {
+        "faith": 0.5,
+        "arcane": 0.5
+      },
+      "spawn": "chest",
+      "aim": "target",
+      "homing": false,
+      "range": 20.0
+    },
+    {
+      "id": "adula_moonblade",
+      "name": "Adula's moonblade",
+      "root": 10443100,
+      "element": {
+        "magic": 1.0
+      },
+      "scaling": {
+        "intelligence": 1.0
+      },
+      "spawn": "chest",
+      "aim": "target",
+      "homing": false,
+      "range": 12.0
+    },
+    {
+      "id": "frozen_lightning",
+      "name": "Frozen lightning spear",
+      "root": 10692100,
+      "element": {
+        "lightning": 1.0
+      },
+      "scaling": {
+        "faith": 0.5,
+        "dexterity": 0.5
+      },
+      "spawn": "shoulder",
+      "aim": "target",
+      "homing": false,
+      "range": 25.0
+    },
+    {
+      "id": "glintstone_icecrag",
+      "name": "Glintstone icecrag",
+      "root": 10440000,
+      "element": {
+        "magic": 1.0
+      },
+      "scaling": {
+        "intelligence": 0.6,
+        "endurance": 0.4
+      },
+      "spawn": "chest",
+      "aim": "target",
+      "homing": false,
+      "range": 10.0
+    },
+    {
+      "id": "loretta_greatbow",
+      "name": "Loretta's greatbow",
+      "root": 10438000,
+      "element": {
+        "magic": 1.0
+      },
+      "scaling": {
+        "intelligence": 0.7,
+        "dexterity": 0.3
+      },
+      "spawn": "shoulder",
+      "aim": "target",
+      "homing": true,
+      "range": 30.0
+    },
+    {
+      "id": "fortissax_spear",
+      "name": "Fortissax's lightning spear",
+      "root": 10694100,
+      "element": {
+        "lightning": 1.0
+      },
+      "scaling": {
+        "faith": 1.0
+      },
+      "spawn": "shoulder",
+      "aim": "target",
+      "homing": false,
+      "range": 25.0
+    }
+  ]
+}

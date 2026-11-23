@@ -1,0 +1,10 @@
+ELDEN RING: ASCENSION - changelog
+
+{VERSION} - first public release
+- 261 cards, 9 Paths, 31 Signature cards, 18 Keystones, 10 Prismatic cards.
+- Balance: bonuses stack with soft caps (damage counts fully up to +60%,
+  damage taken down to -35%, half beyond), sensible ceilings for lifesteal,
+  attack speed, allies and status buildup.
+- Title screen shows the mod name and version.
+- Works with a plain me3 launch on Windows and Linux: the mod finds your
+  save folder by itself.

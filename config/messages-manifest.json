@@ -1,0 +1,1141 @@
+{
+  "schema": 1,
+  "source_executable_sha256": "f9118fea2cfd8fa3901e8060bfadb1552cb2471771ded8a5b662c4e298ffb328",
+  "active_container": "item_dlc02.msgbnd.dcx",
+  "goods_ids": [
+    6960000,
+    6960001,
+    6960002,
+    6960003,
+    6960004,
+    6960005,
+    6960006,
+    6960007,
+    6960008,
+    6960009,
+    6960010,
+    6960011,
+    6960012,
+    6960013,
+    6960014,
+    6960015,
+    6960016
+  ],
+  "generated_files": [
+    {
+      "path": "msg/araae/item_dlc02.msgbnd.dcx",
+      "sha256": "41d001adfcd48dd1689f6c30e97e5d7ea817e8092e9d8d84df7334347e863a4a",
+      "source_sha256": "6811505c81697819ce86baff45bb28ce7556074fa2e5313e1ff6da86e7cd3c0f",
+      "source_archive": "Data0.bhd",
+      "language": "araae",
+      "localization": "english_fallback",
+      "tables": [
+        {
+          "id": 10,
+          "role": "title",
+          "before": 4323,
+          "after": 4340,
+          "added": 17
+        },
+        {
+          "id": 20,
+          "role": "summary",
+          "before": 4248,
+          "after": 4265,
+          "added": 17
+        },
+        {
+          "id": 24,
+          "role": "description",
+          "before": 4258,
+          "after": 4275,
+          "added": 17
+        },
+        {
+          "id": 319,
+          "role": "title",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 320,
+          "role": "summary",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 321,
+          "role": "description",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 419,
+          "role": "title",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 420,
+          "role": "summary",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 421,
+          "role": "description",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        }
+      ]
+    },
+    {
+      "path": "msg/deude/item_dlc02.msgbnd.dcx",
+      "sha256": "3d155de210c0182d95d578ce47c601b58e63204b12c41411b5dc96f7c40e53cb",
+      "source_sha256": "91e8f04625adc7cd84636d2fcf26e0580696db6be470fa051b5aa61a339c636b",
+      "source_archive": "Data0.bhd",
+      "language": "deude",
+      "localization": "english_fallback",
+      "tables": [
+        {
+          "id": 10,
+          "role": "title",
+          "before": 4323,
+          "after": 4340,
+          "added": 17
+        },
+        {
+          "id": 20,
+          "role": "summary",
+          "before": 4248,
+          "after": 4265,
+          "added": 17
+        },
+        {
+          "id": 24,
+          "role": "description",
+          "before": 4258,
+          "after": 4275,
+          "added": 17
+        },
+        {
+          "id": 319,
+          "role": "title",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 320,
+          "role": "summary",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 321,
+          "role": "description",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 419,
+          "role": "title",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 420,
+          "role": "summary",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 421,
+          "role": "description",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        }
+      ]
+    },
+    {
+      "path": "msg/engus/item_dlc02.msgbnd.dcx",
+      "sha256": "1a8e8e425d41d576a291f5304d0e0e94327a554a6ba12f4f5be5e846059b1742",
+      "source_sha256": "9e8ce62da854a7f6aef51da5e37c0e9bb26d7a40d88898b7076ce7081d209d96",
+      "source_archive": "Data0.bhd",
+      "language": "engus",
+      "localization": "english",
+      "tables": [
+        {
+          "id": 10,
+          "role": "title",
+          "before": 4323,
+          "after": 4340,
+          "added": 17
+        },
+        {
+          "id": 20,
+          "role": "summary",
+          "before": 4248,
+          "after": 4265,
+          "added": 17
+        },
+        {
+          "id": 24,
+          "role": "description",
+          "before": 4258,
+          "after": 4275,
+          "added": 17
+        },
+        {
+          "id": 319,
+          "role": "title",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 320,
+          "role": "summary",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 321,
+          "role": "description",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 419,
+          "role": "title",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 420,
+          "role": "summary",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 421,
+          "role": "description",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        }
+      ]
+    },
+    {
+      "path": "msg/frafr/item_dlc02.msgbnd.dcx",
+      "sha256": "792d5885c649e83b6982cd234a91660e5739729fa5d512c3be641d9a2cb0bd63",
+      "source_sha256": "ef5b000831f5fb1b0ef602613d6240550842325a0b86dae225ab2048929f77b0",
+      "source_archive": "Data0.bhd",
+      "language": "frafr",
+      "localization": "english_fallback",
+      "tables": [
+        {
+          "id": 10,
+          "role": "title",
+          "before": 4323,
+          "after": 4340,
+          "added": 17
+        },
+        {
+          "id": 20,
+          "role": "summary",
+          "before": 4248,
+          "after": 4265,
+          "added": 17
+        },
+        {
+          "id": 24,
+          "role": "description",
+          "before": 4258,
+          "after": 4275,
+          "added": 17
+        },
+        {
+          "id": 319,
+          "role": "title",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 320,
+          "role": "summary",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 321,
+          "role": "description",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 419,
+          "role": "title",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 420,
+          "role": "summary",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 421,
+          "role": "description",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        }
+      ]
+    },
+    {
+      "path": "msg/itait/item_dlc02.msgbnd.dcx",
+      "sha256": "6c05ee945f18c513a278e519a7ee2da81fef13901fb1c8f67ee28bffe3083dcb",
+      "source_sha256": "ba1cb6afc5d94e20d63b5d4e1a63d68c6fd84c9738d726682bd101378a4e4e57",
+      "source_archive": "Data0.bhd",
+      "language": "itait",
+      "localization": "english_fallback",
+      "tables": [
+        {
+          "id": 10,
+          "role": "title",
+          "before": 4323,
+          "after": 4340,
+          "added": 17
+        },
+        {
+          "id": 20,
+          "role": "summary",
+          "before": 4248,
+          "after": 4265,
+          "added": 17
+        },
+        {
+          "id": 24,
+          "role": "description",
+          "before": 4258,
+          "after": 4275,
+          "added": 17
+        },
+        {
+          "id": 319,
+          "role": "title",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 320,
+          "role": "summary",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 321,
+          "role": "description",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 419,
+          "role": "title",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 420,
+          "role": "summary",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 421,
+          "role": "description",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        }
+      ]
+    },
+    {
+      "path": "msg/jpnjp/item_dlc02.msgbnd.dcx",
+      "sha256": "7affd6a511bd69c87ecc735f11949c984da1ff4a10b549de78f50c904de1b255",
+      "source_sha256": "f869664a28a40bb733ffe9d12eaebfdadd44def1985c14b3bf87a83dd23dd6a9",
+      "source_archive": "Data0.bhd",
+      "language": "jpnjp",
+      "localization": "english_fallback",
+      "tables": [
+        {
+          "id": 10,
+          "role": "title",
+          "before": 4323,
+          "after": 4340,
+          "added": 17
+        },
+        {
+          "id": 20,
+          "role": "summary",
+          "before": 4248,
+          "after": 4265,
+          "added": 17
+        },
+        {
+          "id": 24,
+          "role": "description",
+          "before": 4258,
+          "after": 4275,
+          "added": 17
+        },
+        {
+          "id": 319,
+          "role": "title",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 320,
+          "role": "summary",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 321,
+          "role": "description",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 419,
+          "role": "title",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 420,
+          "role": "summary",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 421,
+          "role": "description",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        }
+      ]
+    },
+    {
+      "path": "msg/korkr/item_dlc02.msgbnd.dcx",
+      "sha256": "01ecafc7fd68ea4e5eb1b62e6b87b3c48afce86e6408f59e794ea711289a9f09",
+      "source_sha256": "ce411afa49e23d22db9d0022e38d50343478bce4fb79c6d96b4e3f12062a339c",
+      "source_archive": "Data0.bhd",
+      "language": "korkr",
+      "localization": "english_fallback",
+      "tables": [
+        {
+          "id": 10,
+          "role": "title",
+          "before": 4323,
+          "after": 4340,
+          "added": 17
+        },
+        {
+          "id": 20,
+          "role": "summary",
+          "before": 4248,
+          "after": 4265,
+          "added": 17
+        },
+        {
+          "id": 24,
+          "role": "description",
+          "before": 4258,
+          "after": 4275,
+          "added": 17
+        },
+        {
+          "id": 319,
+          "role": "title",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 320,
+          "role": "summary",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 321,
+          "role": "description",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 419,
+          "role": "title",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 420,
+          "role": "summary",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 421,
+          "role": "description",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        }
+      ]
+    },
+    {
+      "path": "msg/polpl/item_dlc02.msgbnd.dcx",
+      "sha256": "dc850107721a23571f1dc5430b0230af43093c5a336ae1b2f17835af5e0af17b",
+      "source_sha256": "67716062594f71f68b5c2cb851da34f9fa0dfcc9a817380210ba7c904c398311",
+      "source_archive": "Data0.bhd",
+      "language": "polpl",
+      "localization": "polish",
+      "tables": [
+        {
+          "id": 10,
+          "role": "title",
+          "before": 4323,
+          "after": 4340,
+          "added": 17
+        },
+        {
+          "id": 20,
+          "role": "summary",
+          "before": 4248,
+          "after": 4265,
+          "added": 17
+        },
+        {
+          "id": 24,
+          "role": "description",
+          "before": 4258,
+          "after": 4275,
+          "added": 17
+        },
+        {
+          "id": 319,
+          "role": "title",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 320,
+          "role": "summary",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 321,
+          "role": "description",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 419,
+          "role": "title",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 420,
+          "role": "summary",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 421,
+          "role": "description",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        }
+      ]
+    },
+    {
+      "path": "msg/porbr/item_dlc02.msgbnd.dcx",
+      "sha256": "89f2264e335fae13957ba77d9f0d9e1c26e8a71fd5be556af73ad52036908b21",
+      "source_sha256": "594b60cf16e1b1b098317ce85e4bb2cb8b45f6075b8cfd4eacee05897a7d9e9e",
+      "source_archive": "Data0.bhd",
+      "language": "porbr",
+      "localization": "english_fallback",
+      "tables": [
+        {
+          "id": 10,
+          "role": "title",
+          "before": 4323,
+          "after": 4340,
+          "added": 17
+        },
+        {
+          "id": 20,
+          "role": "summary",
+          "before": 4248,
+          "after": 4265,
+          "added": 17
+        },
+        {
+          "id": 24,
+          "role": "description",
+          "before": 4258,
+          "after": 4275,
+          "added": 17
+        },
+        {
+          "id": 319,
+          "role": "title",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 320,
+          "role": "summary",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 321,
+          "role": "description",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 419,
+          "role": "title",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 420,
+          "role": "summary",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 421,
+          "role": "description",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        }
+      ]
+    },
+    {
+      "path": "msg/rusru/item_dlc02.msgbnd.dcx",
+      "sha256": "d840d9e8b2d7a22edfd12ce1c84d42bd5d2c4af3aae11eb8ab172ef1ace153ca",
+      "source_sha256": "796e540a542606e592471a0142d5e9bad254705e7aa2bfb18c0fb158862d6415",
+      "source_archive": "Data0.bhd",
+      "language": "rusru",
+      "localization": "english_fallback",
+      "tables": [
+        {
+          "id": 10,
+          "role": "title",
+          "before": 4323,
+          "after": 4340,
+          "added": 17
+        },
+        {
+          "id": 20,
+          "role": "summary",
+          "before": 4248,
+          "after": 4265,
+          "added": 17
+        },
+        {
+          "id": 24,
+          "role": "description",
+          "before": 4258,
+          "after": 4275,
+          "added": 17
+        },
+        {
+          "id": 319,
+          "role": "title",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 320,
+          "role": "summary",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 321,
+          "role": "description",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 419,
+          "role": "title",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 420,
+          "role": "summary",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 421,
+          "role": "description",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        }
+      ]
+    },
+    {
+      "path": "msg/spaar/item_dlc02.msgbnd.dcx",
+      "sha256": "94050b83fdd0b8e929166aa3930800e4db0cd7cb710acfd4ec92693ac95a23ca",
+      "source_sha256": "0d74c7bd066897a417b8bb4874211c97cc9851cbf70563f6bdc2aa66e347fea4",
+      "source_archive": "Data0.bhd",
+      "language": "spaar",
+      "localization": "english_fallback",
+      "tables": [
+        {
+          "id": 10,
+          "role": "title",
+          "before": 4323,
+          "after": 4340,
+          "added": 17
+        },
+        {
+          "id": 20,
+          "role": "summary",
+          "before": 4248,
+          "after": 4265,
+          "added": 17
+        },
+        {
+          "id": 24,
+          "role": "description",
+          "before": 4258,
+          "after": 4275,
+          "added": 17
+        },
+        {
+          "id": 319,
+          "role": "title",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 320,
+          "role": "summary",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 321,
+          "role": "description",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 419,
+          "role": "title",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 420,
+          "role": "summary",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 421,
+          "role": "description",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        }
+      ]
+    },
+    {
+      "path": "msg/spaes/item_dlc02.msgbnd.dcx",
+      "sha256": "0f69c2f5c049c84009c82c6f226682647cfd1716bede5afb8ffd9fbd09ee8cd4",
+      "source_sha256": "1f36169347bcc074de6823228461424b4702ae28ca62e608abf362cd3b0f8896",
+      "source_archive": "Data0.bhd",
+      "language": "spaes",
+      "localization": "english_fallback",
+      "tables": [
+        {
+          "id": 10,
+          "role": "title",
+          "before": 4323,
+          "after": 4340,
+          "added": 17
+        },
+        {
+          "id": 20,
+          "role": "summary",
+          "before": 4248,
+          "after": 4265,
+          "added": 17
+        },
+        {
+          "id": 24,
+          "role": "description",
+          "before": 4258,
+          "after": 4275,
+          "added": 17
+        },
+        {
+          "id": 319,
+          "role": "title",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 320,
+          "role": "summary",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 321,
+          "role": "description",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 419,
+          "role": "title",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 420,
+          "role": "summary",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 421,
+          "role": "description",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        }
+      ]
+    },
+    {
+      "path": "msg/thath/item_dlc02.msgbnd.dcx",
+      "sha256": "e3075c2d881dc6ebf4a83838786f1df7e97800b630983687f446551a47717cea",
+      "source_sha256": "ed50088e8b9b6955d80eea19a1c56aa43e1f11153be7be79d6e9d475fa790dfb",
+      "source_archive": "Data0.bhd",
+      "language": "thath",
+      "localization": "english_fallback",
+      "tables": [
+        {
+          "id": 10,
+          "role": "title",
+          "before": 4323,
+          "after": 4340,
+          "added": 17
+        },
+        {
+          "id": 20,
+          "role": "summary",
+          "before": 4248,
+          "after": 4265,
+          "added": 17
+        },
+        {
+          "id": 24,
+          "role": "description",
+          "before": 4258,
+          "after": 4275,
+          "added": 17
+        },
+        {
+          "id": 319,
+          "role": "title",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 320,
+          "role": "summary",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 321,
+          "role": "description",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 419,
+          "role": "title",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 420,
+          "role": "summary",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 421,
+          "role": "description",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        }
+      ]
+    },
+    {
+      "path": "msg/zhocn/item_dlc02.msgbnd.dcx",
+      "sha256": "e795ae49458e77bd2a30675a5a59b3dc00a8ca496180ad87c3632859c924413c",
+      "source_sha256": "f1e4a3ec1c410f5095eb44ec422f47325074b069f60b10eb7fff469ba3dce9bc",
+      "source_archive": "Data0.bhd",
+      "language": "zhocn",
+      "localization": "english_fallback",
+      "tables": [
+        {
+          "id": 10,
+          "role": "title",
+          "before": 4323,
+          "after": 4340,
+          "added": 17
+        },
+        {
+          "id": 20,
+          "role": "summary",
+          "before": 4248,
+          "after": 4265,
+          "added": 17
+        },
+        {
+          "id": 24,
+          "role": "description",
+          "before": 4258,
+          "after": 4275,
+          "added": 17
+        },
+        {
+          "id": 319,
+          "role": "title",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 320,
+          "role": "summary",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 321,
+          "role": "description",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 419,
+          "role": "title",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 420,
+          "role": "summary",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 421,
+          "role": "description",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        }
+      ]
+    },
+    {
+      "path": "msg/zhotw/item_dlc02.msgbnd.dcx",
+      "sha256": "a2d29dd425530159a0c725504334a2073c51c6c908f1c9c652ac14768b2117b2",
+      "source_sha256": "24765e9ef83d7a32c9286d97e2e4baf3189943ee926bb0b25cccd77be1904d1a",
+      "source_archive": "Data0.bhd",
+      "language": "zhotw",
+      "localization": "english_fallback",
+      "tables": [
+        {
+          "id": 10,
+          "role": "title",
+          "before": 4323,
+          "after": 4340,
+          "added": 17
+        },
+        {
+          "id": 20,
+          "role": "summary",
+          "before": 4248,
+          "after": 4265,
+          "added": 17
+        },
+        {
+          "id": 24,
+          "role": "description",
+          "before": 4258,
+          "after": 4275,
+          "added": 17
+        },
+        {
+          "id": 319,
+          "role": "title",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 320,
+          "role": "summary",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 321,
+          "role": "description",
+          "before": 1216,
+          "after": 1233,
+          "added": 17
+        },
+        {
+          "id": 419,
+          "role": "title",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 420,
+          "role": "summary",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        },
+        {
+          "id": 421,
+          "role": "description",
+          "before": 1,
+          "after": 18,
+          "added": 17
+        }
+      ]
+    }
+  ],
+  "source_archive_headers": [
+    {
+      "name": "Data0.bhd",
+      "sha256": "0686d2b966774a63772347d49ee84ce63c98a528865f6fca783023bb1d6059d7",
+      "bdt_size": 11829420163
+    }
+  ],
+  "source_library": {
+    "repository": "soulsmods/SoulsFormatsNEXT",
+    "revision": "ee1dd61958f60bdc51ce3da548e9a90a8ab39905",
+    "assembly_sha256": "cbc1de5b70a3c677d7260d55a214cfac339100bdda7d594ccd113704748cb73c"
+  },
+  "schema_registry_revision": "6625a5857120b5dfe3b342f1dce5d953754d420a",
+  "tooling_runtime": {
+    "version": "9.0.22",
+    "url": "https://builds.dotnet.microsoft.com/dotnet/Runtime/9.0.22/dotnet-runtime-9.0.22-win-x64.zip",
+    "sha512": "ebe32c4c7b69a9d3b9b822678a46846f4dc075b1b82f1868e17d2f61ad089d75440da97471fff554dd953b34cc134ea49ac86a18e14265df8b686e23565e1dcb",
+    "oodle_source_sha256": "988e8226d129b03011a96f51b476e86d38c0c3e817266375a78a7cf3b85d93c4"
+  },
+  "status": "generated; no tests, round-trip or game launch performed"
+}

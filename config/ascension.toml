@@ -1,0 +1,68 @@
+schema = 1
+profile_namespace = "ER0000.ascension.sl2"
+
+[diagnostics]
+overlay = true
+snapshot_interval_ms = 1000
+
+[balance]
+boss_hp_multiplier = 2.0
+boss_damage_multiplier = 1.225
+attribute_strength = 1.0
+# 0.4: per boss tier (minor, greater, major, remembrance), centred on the base
+# x2.0 HP / x1.2-1.25 damage. Remove these two lines for one flat multiplier.
+tier_hp_multipliers = [1.75, 2.0, 2.15, 2.3]
+tier_damage_multipliers = [1.15, 1.2, 1.225, 1.25]
+
+[status]
+priority = ["bleed", "frostbite", "poison", "scarlet_rot", "sleep", "madness"]
+
+[draw]
+max_power_level = 5
+tier_weights = [
+    [58.0, 26.0, 11.0, 3.7, 1.1, 0.2],
+    [39.0, 30.0, 19.0, 8.0, 3.4, 0.6],
+    [24.0, 27.0, 25.0, 15.0, 7.0, 2.0],
+    [12.0, 19.0, 27.0, 24.0, 13.0, 5.0],
+]
+repeat_weights = [1.0, 0.62, 0.40, 0.25, 0.16, 0.0]
+max_rerolls_per_reward = 10
+
+[elites]
+# Ascended Elites: a regular enemy can be met empowered (aura, 1-2 affixes),
+# drops more runes and gives Ascension Embers. Bosses are never elites.
+enabled = true
+chance = 0.06
+double_affix_chance = 0.2
+max_nearby = 3
+rune_multiplier = 3.0
+
+[fate]
+# 0.5 "Fate". Curse cards: a big power with a permanent drawback (marked CURSED).
+curses = true
+# Evolutions: owning both parent cards at V unlocks a Mythic evolution that
+# always joins the next offer until you take it.
+evolutions = true
+# Rank rewards: +1 free reroll per 10 power levels; Elden Lord (56 levels)
+# sees 4 cards after Remembrance bosses, God of the Ring (91) after Major ones too.
+rank_rewards = true
+# A reward can be skipped for runes (part of a level-up) and 1 Ember.
+skip_rewards = true
+# NG+ bosses gain an affix (one per cycle, two from NG+3). 0.6 adds Adaptive:
+# the boss resists the main damage type of your right-hand weapon (x0.75).
+boss_affixes = true
+boss_affix_from_cycle = 1
+# 3.0 Ascended Bosses: from Tide I a boss may rise with 1-3 affixes of its own
+# (more likely as the Tide grows). Beat it: rarer cards, +1 Ember per affix,
+# one more card to choose from with 2 or more affixes.
+ascended_bosses = true
+
+[ui]
+# 0.7 "Wygląd": card illustrations, a face-down deal with card flips, and sounds
+# (deal, rarity reveal, choice, evolution; perfect dodge, parry, critical).
+card_art = true
+card_animations = true
+sounds = true
+# 0.0-1.0. These sounds do not follow the game's volume sliders.
+sound_volume = 0.6
+reflex_sounds = true

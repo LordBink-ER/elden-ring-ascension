@@ -1,0 +1,1451 @@
+[
+  {
+    "id": "boss_18000850",
+    "name": "Soldier of Godrick",
+    "region": "Limgrave",
+    "flag": 18000850,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1042360800",
+    "name": "Tree Sentinel",
+    "region": "Limgrave",
+    "flag": 1042360800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_31150800",
+    "name": "Demi-Human Chief(x2)",
+    "region": "Limgrave",
+    "flag": 31150800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_30020800",
+    "name": "Erdtree Burial Watchdog",
+    "region": "Limgrave",
+    "flag": 30020800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_31030800",
+    "name": "Beastman of Farum Azula",
+    "region": "Limgrave",
+    "flag": 31030800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_32010800",
+    "name": "Stonedigger Troll",
+    "region": "Limgrave",
+    "flag": 32010800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1044360800",
+    "name": "Mad Pumpkin Head",
+    "region": "Limgrave",
+    "flag": 1044360800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1044350800",
+    "name": "Bloodhound Knight Darriwil",
+    "region": "Limgrave",
+    "flag": 1044350800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_31000800",
+    "name": "Patches",
+    "region": "Limgrave",
+    "flag": 31000800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_30040800",
+    "name": "Grave Warden Duelist",
+    "region": "Limgrave",
+    "flag": 30040800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_31170800",
+    "name": "Guardian Golem",
+    "region": "Limgrave",
+    "flag": 31170800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_30110800",
+    "name": "Black Knife Assassin",
+    "region": "Limgrave",
+    "flag": 30110800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_18000800",
+    "name": "Ulcerated Tree Spirit",
+    "region": "Limgrave",
+    "flag": 18000800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1043360800",
+    "name": "Flying Dragon Agheel",
+    "region": "Limgrave",
+    "flag": 1043360800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1045390800",
+    "name": "Tibia Mariner",
+    "region": "Limgrave",
+    "flag": 1045390800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1042370800",
+    "name": "Crucible Knight",
+    "region": "Limgrave",
+    "flag": 1042370800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1043370800",
+    "name": "Night's Cavalry",
+    "region": "Limgrave",
+    "flag": 1043370800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1042380800",
+    "name": "Deathbird",
+    "region": "Limgrave",
+    "flag": 1042380800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1042380850",
+    "name": "Bell Bearing Hunter",
+    "region": "Limgrave",
+    "flag": 1042380850,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_31010800",
+    "name": "Runebear",
+    "region": "Weeping Peninsula",
+    "flag": 31010800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_32000800",
+    "name": "Scaly Misbegotten",
+    "region": "Weeping Peninsula",
+    "flag": 32000800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_30010800",
+    "name": "Erdtree Burial Watchdog",
+    "region": "Weeping Peninsula",
+    "flag": 30010800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_30000800",
+    "name": "Cemetery Shade",
+    "region": "Weeping Peninsula",
+    "flag": 30000800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_31020800",
+    "name": "Miranda the Blighted Bloom",
+    "region": "Weeping Peninsula",
+    "flag": 31020800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1043330800",
+    "name": "Erdtree Avatar",
+    "region": "Weeping Peninsula",
+    "flag": 1043330800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1042330800",
+    "name": "Ancient Hero of Zamor",
+    "region": "Weeping Peninsula",
+    "flag": 1042330800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1044320850",
+    "name": "Night's Cavalry",
+    "region": "Weeping Peninsula",
+    "flag": 1044320850,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1044320800",
+    "name": "Deathbird",
+    "region": "Weeping Peninsula",
+    "flag": 1044320800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1043300800",
+    "name": "Leonine Misbegotten",
+    "region": "Weeping Peninsula",
+    "flag": 1043300800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_10000850",
+    "name": "Margit, the Fell Omen",
+    "region": "Stormveil Castle",
+    "flag": 10000850,
+    "tier": "major"
+  },
+  {
+    "id": "boss_10000800",
+    "name": "Godrick the Grafted",
+    "region": "Stormveil Castle",
+    "flag": 10000800,
+    "tier": "remembrance"
+  },
+  {
+    "id": "boss_31040800",
+    "name": "Cleanrot Knight",
+    "region": "Liurnia of the Lakes",
+    "flag": 31040800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_31050800",
+    "name": "Bloodhound Knight",
+    "region": "Liurnia of the Lakes",
+    "flag": 31050800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_30060800",
+    "name": "Erdtree Burial Watchdog",
+    "region": "Liurnia of the Lakes",
+    "flag": 30060800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_31060800",
+    "name": "Crystalian (Staff) & Crystalian (Spear)",
+    "region": "Liurnia of the Lakes",
+    "flag": 31060800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_32020800",
+    "name": "Crystalian (Ringblade)",
+    "region": "Liurnia of the Lakes",
+    "flag": 32020800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_30050800",
+    "name": "Cemetery Shade",
+    "region": "Liurnia of the Lakes",
+    "flag": 30050800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_30050850",
+    "name": "Black Knife Assassin",
+    "region": "Liurnia of the Lakes",
+    "flag": 30050850,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_30030800",
+    "name": "Spiritcaller Snail",
+    "region": "Liurnia of the Lakes",
+    "flag": 30030800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_10010800",
+    "name": "Grafted Scion",
+    "region": "Liurnia of the Lakes",
+    "flag": 10010800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1034450800",
+    "name": "Glintstone Dragon Smarag",
+    "region": "Liurnia of the Lakes",
+    "flag": 1034450800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1035420800",
+    "name": "Omenkiller",
+    "region": "Liurnia of the Lakes",
+    "flag": 1035420800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1034480800",
+    "name": "Royal Revenant",
+    "region": "Liurnia of the Lakes",
+    "flag": 1034480800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1039440800",
+    "name": "Tibia Mariner",
+    "region": "Liurnia of the Lakes",
+    "flag": 1039440800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1033430800",
+    "name": "Erdtree Avatar",
+    "region": "Liurnia of the Lakes",
+    "flag": 1033430800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1038480800",
+    "name": "Erdtree Avatar",
+    "region": "Liurnia of the Lakes",
+    "flag": 1038480800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1038410800",
+    "name": "Adan, Thief of Fire",
+    "region": "Liurnia of the Lakes",
+    "flag": 1038410800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1033450800",
+    "name": "Bols, Carian Knight",
+    "region": "Liurnia of the Lakes",
+    "flag": 1033450800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1036500800",
+    "name": "Onyx Lord",
+    "region": "Liurnia of the Lakes",
+    "flag": 1036500800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1039430800",
+    "name": "Night's Cavalry",
+    "region": "Liurnia of the Lakes",
+    "flag": 1039430800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1036480800",
+    "name": "Night's Cavalry",
+    "region": "Liurnia of the Lakes",
+    "flag": 1036480800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1037420800",
+    "name": "Deathbird",
+    "region": "Liurnia of the Lakes",
+    "flag": 1037420800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1036450800",
+    "name": "Death Rite Bird",
+    "region": "Liurnia of the Lakes",
+    "flag": 1036450800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1037460800",
+    "name": "Bell Bearing Hunter",
+    "region": "Liurnia of the Lakes",
+    "flag": 1037460800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1035500800",
+    "name": "Royal Knight Loretta",
+    "region": "Liurnia of the Lakes",
+    "flag": 1035500800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_39200800",
+    "name": "Magma Wyrm Makar",
+    "region": "Liurnia of the Lakes",
+    "flag": 39200800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1034420800",
+    "name": "Glintstone Dragon Adula",
+    "region": "Moonlight Altar",
+    "flag": 1034420800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1033420800",
+    "name": "Alecto, Black Knife Ringleader",
+    "region": "Moonlight Altar",
+    "flag": 1033420800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_14000850",
+    "name": "Red Wolf of Radagon",
+    "region": "Academy of Raya Lucaria",
+    "flag": 14000850,
+    "tier": "major"
+  },
+  {
+    "id": "boss_14000800",
+    "name": "Rennala, Queen of the Full Moon",
+    "region": "Academy of Raya Lucaria",
+    "flag": 14000800,
+    "tier": "remembrance"
+  },
+  {
+    "id": "boss_32070800",
+    "name": "Magma Wyrm",
+    "region": "Caelid",
+    "flag": 32070800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_30140800",
+    "name": "Erdtree Burial Watchdog (Sword) & Erdtree Burial Watchdog (Scepter)",
+    "region": "Caelid",
+    "flag": 30140800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_31210800",
+    "name": "Frenzied Duelist",
+    "region": "Caelid",
+    "flag": 31210800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_30150800",
+    "name": "Cemetery Shade",
+    "region": "Caelid",
+    "flag": 30150800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_32080800",
+    "name": "Fallingstar Beast",
+    "region": "Caelid",
+    "flag": 32080800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_31110800",
+    "name": "Putrid Crystalian (Ringblade) & Putrid Crystalian (Spear) & Putrid Crystalian (Staff)",
+    "region": "Caelid",
+    "flag": 31110800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1048400800",
+    "name": "Mad Pumpkin Head (Hammer) & Mad Pumpkin Head (Flail)",
+    "region": "Caelid",
+    "flag": 1048400800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1048370800",
+    "name": "Decaying Ekzykes",
+    "region": "Caelid",
+    "flag": 1048370800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1049390800",
+    "name": "Nox Monk & Nox Swordstress",
+    "region": "Caelid",
+    "flag": 1049390800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1049380800",
+    "name": "Commander O'Neil",
+    "region": "Caelid",
+    "flag": 1049380800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1047400800",
+    "name": "Putrid Avatar",
+    "region": "Caelid",
+    "flag": 1047400800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1049370800",
+    "name": "Night's Cavalry",
+    "region": "Caelid",
+    "flag": 1049370800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1049370850",
+    "name": "Death Rite Bird",
+    "region": "Caelid",
+    "flag": 1049370850,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1051360800",
+    "name": "Crucible Knight & Misbegotten Warrior",
+    "region": "Caelid",
+    "flag": 1051360800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1252380800",
+    "name": "Starscourge Radahn",
+    "region": "Caelid",
+    "flag": 1252380800,
+    "tier": "remembrance"
+  },
+  {
+    "id": "boss_31200800",
+    "name": "Cleanrot Knight (Spear) & Cleanrot Knight (Sickle)",
+    "region": "Greyoll's Dragonbarrow",
+    "flag": 31200800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_31100800",
+    "name": "Beastman of Farum Azula (Cleaver) & Beastman of Farum Azula (Throwing Knife)",
+    "region": "Greyoll's Dragonbarrow",
+    "flag": 31100800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_30160800",
+    "name": "Putrid Tree Spirit",
+    "region": "Greyoll's Dragonbarrow",
+    "flag": 30160800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_34130800",
+    "name": "Godskin Apostle",
+    "region": "Greyoll's Dragonbarrow",
+    "flag": 34130800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1051430800",
+    "name": "Black Blade Kindred",
+    "region": "Greyoll's Dragonbarrow",
+    "flag": 1051430800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1052410800",
+    "name": "Flying Dragon Greyll",
+    "region": "Greyoll's Dragonbarrow",
+    "flag": 1052410800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1051400800",
+    "name": "Putrid Avatar",
+    "region": "Greyoll's Dragonbarrow",
+    "flag": 1051400800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1049390850",
+    "name": "Battlemage Hugues",
+    "region": "Greyoll's Dragonbarrow",
+    "flag": 1049390850,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1052410850",
+    "name": "Night's Cavalry",
+    "region": "Greyoll's Dragonbarrow",
+    "flag": 1052410850,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1048410800",
+    "name": "Bell Bearing Hunter",
+    "region": "Greyoll's Dragonbarrow",
+    "flag": 1048410800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_31190850",
+    "name": "Necromancer Garris",
+    "region": "Altus Plateau",
+    "flag": 31190850,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_31190800",
+    "name": "Black Knife Assassin",
+    "region": "Altus Plateau",
+    "flag": 31190800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_32040800",
+    "name": "Stonedigger Troll",
+    "region": "Altus Plateau",
+    "flag": 32040800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_32050800",
+    "name": "Crystalian (Spear) & Crystalian (Ringblade)",
+    "region": "Altus Plateau",
+    "flag": 32050800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1040520800",
+    "name": "Black Knife Assassin",
+    "region": "Altus Plateau",
+    "flag": 1040520800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_30080800",
+    "name": "Ancient Hero of Zamor",
+    "region": "Altus Plateau",
+    "flag": 30080800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_31180800",
+    "name": "Omenkiller & Miranda the Blighted Bloom",
+    "region": "Altus Plateau",
+    "flag": 31180800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_30120800",
+    "name": "Perfumer Tricia & Misbegotten Warrior",
+    "region": "Altus Plateau",
+    "flag": 30120800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_30070800",
+    "name": "Erdtree Burial Watchdog",
+    "region": "Altus Plateau",
+    "flag": 30070800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1041520800",
+    "name": "Ancient Dragon Lansseax",
+    "region": "Altus Plateau",
+    "flag": 1041520800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1038510800",
+    "name": "Demi-Human Queen Gilika",
+    "region": "Altus Plateau",
+    "flag": 1038510800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1040530800",
+    "name": "Sanguine Noble",
+    "region": "Altus Plateau",
+    "flag": 1040530800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1042550800",
+    "name": "Godskin Apostle",
+    "region": "Altus Plateau",
+    "flag": 1042550800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1041500800",
+    "name": "Fallingstar Beast",
+    "region": "Altus Plateau",
+    "flag": 1041500800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1041510800",
+    "name": "Tree Sentinel(x2)",
+    "region": "Altus Plateau",
+    "flag": 1041510800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1038520800",
+    "name": "Tibia Mariner",
+    "region": "Altus Plateau",
+    "flag": 1038520800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1041530800",
+    "name": "Wormface",
+    "region": "Altus Plateau",
+    "flag": 1041530800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1039500800",
+    "name": "Godefroy the Grafted",
+    "region": "Altus Plateau",
+    "flag": 1039500800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1039510800",
+    "name": "Night's Cavalry",
+    "region": "Altus Plateau",
+    "flag": 1039510800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1039540800",
+    "name": "Elemer of the Briar",
+    "region": "Altus Plateau",
+    "flag": 1039540800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_34120800",
+    "name": "Onyx Lord",
+    "region": "Capital Outskirts",
+    "flag": 34120800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_30130800",
+    "name": "Grave Warden Duelist",
+    "region": "Capital Outskirts",
+    "flag": 30130800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_30100800",
+    "name": "Crucible Knight & Crucible Knight Ordovis",
+    "region": "Capital Outskirts",
+    "flag": 30100800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1045520800",
+    "name": "Draconic Tree Sentinel",
+    "region": "Capital Outskirts",
+    "flag": 1045520800,
+    "tier": "major"
+  },
+  {
+    "id": "boss_1044530800",
+    "name": "Deathbird",
+    "region": "Capital Outskirts",
+    "flag": 1044530800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1043530800",
+    "name": "Bell Bearing Hunter",
+    "region": "Capital Outskirts",
+    "flag": 1043530800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_31090800",
+    "name": "Demi-Human Queen Margot",
+    "region": "Mt. Gelmir",
+    "flag": 31090800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_31070800",
+    "name": "Kindred of Rot(x2)",
+    "region": "Mt. Gelmir",
+    "flag": 31070800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_30090800",
+    "name": "Red Wolf of the Champion",
+    "region": "Mt. Gelmir",
+    "flag": 30090800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1035530800",
+    "name": "Magma Wyrm",
+    "region": "Mt. Gelmir",
+    "flag": 1035530800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1036540800",
+    "name": "Full-Grown Fallingstar Beast",
+    "region": "Mt. Gelmir",
+    "flag": 1036540800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1037530800",
+    "name": "Demi-Human Queen Maggie",
+    "region": "Mt. Gelmir",
+    "flag": 1037530800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1037540810",
+    "name": "Ulcerated Tree Spirit",
+    "region": "Mt. Gelmir",
+    "flag": 1037540810,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_16000860",
+    "name": "Abductor Virgin (Swinging Sickle) & Abductor Virgin (Wheel)",
+    "region": "Volcano Manor",
+    "flag": 16000860,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_16000850",
+    "name": "Godskin Noble",
+    "region": "Volcano Manor",
+    "flag": 16000850,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_16000800",
+    "name": "God-Devouring Serpent & Rykard, Lord of Blasphemy",
+    "region": "Volcano Manor",
+    "flag": 16000800,
+    "tier": "remembrance"
+  },
+  {
+    "id": "boss_35000850",
+    "name": "Esgar, Priest of Blood",
+    "region": "Leyndell, Royal Capital",
+    "flag": 35000850,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_34140850",
+    "name": "Fell Twin(x2)",
+    "region": "Leyndell, Royal Capital",
+    "flag": 34140850,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_35000800",
+    "name": "Mohg, the Omen",
+    "region": "Leyndell, Royal Capital",
+    "flag": 35000800,
+    "tier": "major"
+  },
+  {
+    "id": "boss_11000850",
+    "name": "Godfrey, First Elden Lord",
+    "region": "Leyndell, Royal Capital",
+    "flag": 11000850,
+    "tier": "major"
+  },
+  {
+    "id": "boss_11000800",
+    "name": "Morgott, the Omen King",
+    "region": "Leyndell, Royal Capital",
+    "flag": 11000800,
+    "tier": "remembrance"
+  },
+  {
+    "id": "boss_1048510800",
+    "name": "Night's Cavalry",
+    "region": "Forbidden Lands",
+    "flag": 1048510800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1049520800",
+    "name": "Black Blade Kindred",
+    "region": "Forbidden Lands",
+    "flag": 1049520800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_30170800",
+    "name": "Ancient Hero of Zamor",
+    "region": "Mountaintops of the Giants",
+    "flag": 30170800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_30180800",
+    "name": "Ulcerated Tree Spirit",
+    "region": "Mountaintops of the Giants",
+    "flag": 30180800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_31220800",
+    "name": "Godskin Apostle & Godskin Noble & Spiritcaller Snail",
+    "region": "Mountaintops of the Giants",
+    "flag": 31220800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1254560800",
+    "name": "Borealis the Freezing Fog",
+    "region": "Mountaintops of the Giants",
+    "flag": 1254560800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1052560800",
+    "name": "Erdtree Avatar",
+    "region": "Mountaintops of the Giants",
+    "flag": 1052560800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1053560800",
+    "name": "Roundtable Knight Vyke",
+    "region": "Mountaintops of the Giants",
+    "flag": 1053560800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_1050570800",
+    "name": "Death Rite Bird",
+    "region": "Mountaintops of the Giants",
+    "flag": 1050570800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1051570800",
+    "name": "Commander Niall",
+    "region": "Mountaintops of the Giants",
+    "flag": 1051570800,
+    "tier": "major"
+  },
+  {
+    "id": "boss_1252520800",
+    "name": "Fire Giant",
+    "region": "Mountaintops of the Giants",
+    "flag": 1252520800,
+    "tier": "remembrance"
+  },
+  {
+    "id": "boss_13000850",
+    "name": "Godskin Duo",
+    "region": "Crumbling Farum Azula",
+    "flag": 13000850,
+    "tier": "major"
+  },
+  {
+    "id": "boss_13000830",
+    "name": "Dragonlord Placidusax",
+    "region": "Crumbling Farum Azula",
+    "flag": 13000830,
+    "tier": "remembrance"
+  },
+  {
+    "id": "boss_13000800",
+    "name": "Maliketh, the Black Blade",
+    "region": "Crumbling Farum Azula",
+    "flag": 13000800,
+    "tier": "remembrance"
+  },
+  {
+    "id": "boss_30200800",
+    "name": "Stray Mimic Tear",
+    "region": "Consecrated Snowfield",
+    "flag": 30200800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_30190800",
+    "name": "Putrid Grave Warden Duelist",
+    "region": "Consecrated Snowfield",
+    "flag": 30190800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_32110800",
+    "name": "Astel, Stars of Darkness",
+    "region": "Consecrated Snowfield",
+    "flag": 32110800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_31120800",
+    "name": "Misbegotten Crusader",
+    "region": "Consecrated Snowfield",
+    "flag": 31120800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1050560800",
+    "name": "Great Wyrm Theodorix",
+    "region": "Consecrated Snowfield",
+    "flag": 1050560800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1050570850",
+    "name": "Putrid Avatar",
+    "region": "Consecrated Snowfield",
+    "flag": 1050570850,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1248550800",
+    "name": "Night's Cavalry (Glaive) & Night's Cavalry (Flail)",
+    "region": "Consecrated Snowfield",
+    "flag": 1248550800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_1048570800",
+    "name": "Death Rite Bird",
+    "region": "Consecrated Snowfield",
+    "flag": 1048570800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_15000850",
+    "name": "Loretta, Knight of the Haligtree",
+    "region": "Miquella's Haligtree",
+    "flag": 15000850,
+    "tier": "major"
+  },
+  {
+    "id": "boss_15000800",
+    "name": "Malenia, Blade of Miquella & Malenia, Goddess of Rot",
+    "region": "Miquella's Haligtree",
+    "flag": 15000800,
+    "tier": "remembrance"
+  },
+  {
+    "id": "boss_12020830",
+    "name": "Dragonkin Soldier",
+    "region": "Siofra River",
+    "flag": 12020830,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_12080800",
+    "name": "Ancestor Spirit",
+    "region": "Siofra River",
+    "flag": 12080800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_12020850",
+    "name": "Mimic Tear",
+    "region": "Siofra River",
+    "flag": 12020850,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_12090800",
+    "name": "Regal Ancestor Spirit",
+    "region": "Siofra River",
+    "flag": 12090800,
+    "tier": "remembrance"
+  },
+  {
+    "id": "boss_12020800",
+    "name": "Valiant Gargoyle & Valiant Gargoyle (Twinblade)",
+    "region": "Siofra River",
+    "flag": 12020800,
+    "tier": "major"
+  },
+  {
+    "id": "boss_12050800",
+    "name": "Mohg, Lord of Blood",
+    "region": "Mohgwyn Dynasty Mausoleum",
+    "flag": 12050800,
+    "tier": "remembrance"
+  },
+  {
+    "id": "boss_12010800",
+    "name": "Dragonkin Soldier of Nokstella",
+    "region": "Ainsel River",
+    "flag": 12010800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_12010850",
+    "name": "Dragonkin Soldier",
+    "region": "Ainsel River",
+    "flag": 12010850,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_12040800",
+    "name": "Astel, Naturalborn of the Void",
+    "region": "Ainsel River",
+    "flag": 12040800,
+    "tier": "remembrance"
+  },
+  {
+    "id": "boss_12030390",
+    "name": "Crucible Knight Siluria",
+    "region": "Deeproot Depths",
+    "flag": 12030390,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_12030800",
+    "name": "Fia's Champion & Sorcerer Rogier & Lionel the Lionhearted",
+    "region": "Deeproot Depths",
+    "flag": 12030800,
+    "tier": "major"
+  },
+  {
+    "id": "boss_12030850",
+    "name": "Lichdragon Fortissax",
+    "region": "Deeproot Depths",
+    "flag": 12030850,
+    "tier": "remembrance"
+  },
+  {
+    "id": "boss_11050850",
+    "name": "Sir Gideon Ofnir, the All-Knowing",
+    "region": "Leyndell, Ashen Capital",
+    "flag": 11050850,
+    "tier": "major"
+  },
+  {
+    "id": "boss_11050800",
+    "name": "Godfrey, First Elden Lord",
+    "region": "Leyndell, Ashen Capital",
+    "flag": 11050800,
+    "tier": "remembrance"
+  },
+  {
+    "id": "boss_19000800",
+    "name": "Radagon of the Golden Order & Elden Beast",
+    "region": "Leyndell, Ashen Capital",
+    "flag": 19000800,
+    "tier": "remembrance"
+  },
+  {
+    "id": "boss_2045440800",
+    "name": "Ghostflame Dragon",
+    "region": "Gravesite Plain",
+    "flag": 2045440800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_2046410800",
+    "name": "Blackgaol Knight",
+    "region": "Gravesite Plain",
+    "flag": 2046410800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_43000800",
+    "name": "Chief Bloodfiend",
+    "region": "Gravesite Plain",
+    "flag": 43000800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_41020800",
+    "name": "Lamenter",
+    "region": "Gravesite Plain",
+    "flag": 41020800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_41000800",
+    "name": "Demi-Human Swordmaster Onze",
+    "region": "Gravesite Plain",
+    "flag": 41000800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_20000800",
+    "name": "Divine Beast Dancing Lion",
+    "region": "Gravesite Plain",
+    "flag": 20000800,
+    "tier": "remembrance"
+  },
+  {
+    "id": "boss_2048440800",
+    "name": "Rellana, Twin Moon Knight",
+    "region": "Gravesite Plain",
+    "flag": 2048440800,
+    "tier": "remembrance"
+  },
+  {
+    "id": "boss_2049430800",
+    "name": "Ghostflame Dragon",
+    "region": "Scadu Altus",
+    "flag": 2049430800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_2049450800",
+    "name": "Ralva the Great Red Bear",
+    "region": "Scadu Altus",
+    "flag": 2049450800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_2044470800",
+    "name": "Rugalea the Great Red Bear",
+    "region": "Scadu Altus",
+    "flag": 2044470800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_2049440800",
+    "name": "Dryleaf Dane",
+    "region": "Scadu Altus",
+    "flag": 2049440800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_2049430850",
+    "name": "Black Knight Edredd",
+    "region": "Scadu Altus",
+    "flag": 2049430850,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_2047450800",
+    "name": "Black Knight Garrew",
+    "region": "Scadu Altus",
+    "flag": 2047450800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_2046450800",
+    "name": "Red Bear",
+    "region": "Scadu Altus",
+    "flag": 2046450800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_2051440800",
+    "name": "Rakshasa",
+    "region": "Scadu Altus",
+    "flag": 2051440800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_25000800",
+    "name": "Metyr, Mother of Fingers",
+    "region": "Scadu Altus",
+    "flag": 25000800,
+    "tier": "remembrance"
+  },
+  {
+    "id": "boss_2051450800",
+    "name": "Count Ymir, Mother of Fingers",
+    "region": "Scadu Altus",
+    "flag": 2051450800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_40000800",
+    "name": "Death Knight",
+    "region": "Scadu Altus",
+    "flag": 40000800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_40010800",
+    "name": "Death Knight",
+    "region": "Scadu Altus",
+    "flag": 40010800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_41010800",
+    "name": "Curseblade Labirith",
+    "region": "Scadu Altus",
+    "flag": 41010800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_21000850",
+    "name": "Golden Hippopotamus",
+    "region": "Scadu Altus",
+    "flag": 21000850,
+    "tier": "major"
+  },
+  {
+    "id": "boss_21010800",
+    "name": "Messmer the Impaler & Base Serpent Messmer",
+    "region": "Scadu Altus",
+    "flag": 21010800,
+    "tier": "remembrance"
+  },
+  {
+    "id": "boss_2046460800",
+    "name": "Divine Beast Dancing Lion",
+    "region": "Ancient Ruins of Rauh",
+    "flag": 2046460800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_2044450800",
+    "name": "Romina, Saint of the Bud",
+    "region": "Ancient Ruins of Rauh",
+    "flag": 2044450800,
+    "tier": "remembrance"
+  },
+  {
+    "id": "boss_2048380850",
+    "name": "Ghostflame Dragon",
+    "region": "Cerulean Coast",
+    "flag": 2048380850,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_2046380800",
+    "name": "Dancer of Ranah",
+    "region": "Cerulean Coast",
+    "flag": 2046380800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_22000800",
+    "name": "Putrescent Knight",
+    "region": "Cerulean Coast",
+    "flag": 22000800,
+    "tier": "remembrance"
+  },
+  {
+    "id": "boss_2047390800",
+    "name": "Death Rite Bird",
+    "region": "Charo's Hidden Grave",
+    "flag": 2047390800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_2046400800",
+    "name": "Demi-Human Queen Marigga",
+    "region": "Charo's Hidden Grave",
+    "flag": 2046400800,
+    "tier": "minor"
+  },
+  {
+    "id": "boss_2049410800",
+    "name": "Jagged Peak Drake",
+    "region": "Jagged Peak",
+    "flag": 2049410800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_2052400800",
+    "name": "Jagged Peak Drake",
+    "region": "Jagged Peak",
+    "flag": 2052400800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_43010800",
+    "name": "Ancient Dragon-Man",
+    "region": "Jagged Peak",
+    "flag": 43010800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_2054390850",
+    "name": "Ancient Dragon Senessax",
+    "region": "Jagged Peak",
+    "flag": 2054390850,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_2054390800",
+    "name": "Bayle the Dread",
+    "region": "Jagged Peak",
+    "flag": 2054390800,
+    "tier": "major"
+  },
+  {
+    "id": "boss_2050470800",
+    "name": "Tree Sentinel",
+    "region": "Scaduview",
+    "flag": 2050470800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_2050480860",
+    "name": "Tree Sentinel",
+    "region": "Scaduview",
+    "flag": 2050480860,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_2052480800",
+    "name": "Fallingstar Beast",
+    "region": "Scaduview",
+    "flag": 2052480800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_2049480800",
+    "name": "Commander Gaius",
+    "region": "Scaduview",
+    "flag": 2049480800,
+    "tier": "remembrance"
+  },
+  {
+    "id": "boss_2050480800",
+    "name": "Scadutree Avatar",
+    "region": "Scaduview",
+    "flag": 2050480800,
+    "tier": "remembrance"
+  },
+  {
+    "id": "boss_2052430800",
+    "name": "Jori, Elder Inquisitor",
+    "region": "Abyssal Woods",
+    "flag": 2052430800,
+    "tier": "greater"
+  },
+  {
+    "id": "boss_28000800",
+    "name": "Midra, Lord of Frenzied Flame",
+    "region": "Abyssal Woods",
+    "flag": 28000800,
+    "tier": "remembrance"
+  },
+  {
+    "id": "boss_20010800",
+    "name": "Promised Consort Radahn & Radahn, Consort of Miquella",
+    "region": "Enir-Ilim",
+    "flag": 20010800,
+    "tier": "remembrance"
+  }
+]

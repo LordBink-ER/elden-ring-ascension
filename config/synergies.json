@@ -1,0 +1,1011 @@
+{
+  "schema": 1,
+  "synergies": [
+    {
+      "id": "hemomancer",
+      "name": "Hemomancer",
+      "rarity": "epic",
+      "description": "+12 blood loss buildup on hits, Bloodflame burst hits 25% harder.",
+      "all": [
+        [
+          "blood_communion",
+          1
+        ],
+        [
+          "bloodflame_bloom",
+          1
+        ]
+      ],
+      "modifiers": [
+        {
+          "field": "blood_attack_power",
+          "value": 12
+        }
+      ],
+      "proc_power": {
+        "bloodflame_burst": 1.25
+      }
+    },
+    {
+      "id": "glintstone_conclave",
+      "name": "Glintstone Conclave",
+      "rarity": "epic",
+      "description": "+8% magic damage, Glintstone bolt hits 30% harder.",
+      "all": [
+        [
+          "glintstone_familiar",
+          2
+        ],
+        [
+          "full_moon_covenant",
+          1
+        ]
+      ],
+      "modifiers": [
+        {
+          "field": "magic_attack_rate",
+          "value": 1.08
+        }
+      ],
+      "proc_power": {
+        "glintstone_bolt": 1.3
+      }
+    },
+    {
+      "id": "stormcaller",
+      "name": "Stormcaller",
+      "rarity": "legendary",
+      "description": "+10% lightning damage, Lightning spear hits 20% harder, Lightning strike hits 20% harder.",
+      "all": [
+        [
+          "storm_herald",
+          1
+        ],
+        [
+          "thunderhead",
+          1
+        ]
+      ],
+      "modifiers": [
+        {
+          "field": "thunder_attack_rate",
+          "value": 1.1
+        }
+      ],
+      "proc_power": {
+        "storm_spear": 1.2,
+        "sky_bolt": 1.2
+      }
+    },
+    {
+      "id": "pyromancers_pact",
+      "name": "Pyromancer's Pact",
+      "rarity": "epic",
+      "description": "+12% fire damage, Flame sling hits 25% harder, Catch flame hits 25% harder.",
+      "all": [
+        [
+          "flame_familiar",
+          1
+        ],
+        [
+          "ember_step",
+          1
+        ],
+        [
+          "cinder_reserve",
+          1
+        ]
+      ],
+      "modifiers": [
+        {
+          "field": "fire_attack_rate",
+          "value": 1.12
+        }
+      ],
+      "proc_power": {
+        "flame_sling": 1.25,
+        "catch_flame": 1.25
+      }
+    },
+    {
+      "id": "frozen_heart",
+      "name": "Frozen Heart",
+      "rarity": "rare",
+      "description": "+10 frostbite buildup on hits, Zamor frost hits 30% harder.",
+      "all": [
+        [
+          "winterwake",
+          1
+        ],
+        [
+          "frost_step",
+          1
+        ]
+      ],
+      "modifiers": [
+        {
+          "field": "freeze_attack_power",
+          "value": 10
+        }
+      ],
+      "proc_power": {
+        "zamor_frost": 1.3
+      }
+    },
+    {
+      "id": "pestilence",
+      "name": "Pestilence",
+      "rarity": "legendary",
+      "description": "+8 poison buildup on hits, +8 scarlet rot buildup on hits, Pest threads hits 20% harder, Swarm of flies hits 20% harder.",
+      "all": [
+        [
+          "miasma_craft",
+          1
+        ],
+        [
+          "pest_familiar",
+          1
+        ],
+        [
+          "fly_swarm_curse",
+          1
+        ]
+      ],
+      "modifiers": [
+        {
+          "field": "poizon_attack_power",
+          "value": 8
+        },
+        {
+          "field": "disease_attack_power",
+          "value": 8
+        }
+      ],
+      "proc_power": {
+        "pest_threads": 1.2,
+        "fly_swarm": 1.2
+      }
+    },
+    {
+      "id": "executioner",
+      "name": "Executioner",
+      "rarity": "epic",
+      "description": "+10% stance damage, +10% stamina damage to foes.",
+      "all": [
+        [
+          "executioners_focus",
+          1
+        ],
+        [
+          "stonebreaker",
+          2
+        ]
+      ],
+      "modifiers": [
+        {
+          "field": "sa_attack_power_rate",
+          "value": 1.1
+        },
+        {
+          "field": "stamina_attack_rate",
+          "value": 1.1
+        }
+      ]
+    },
+    {
+      "id": "unbreakable",
+      "name": "Unbreakable",
+      "rarity": "legendary",
+      "description": "-5% physical damage taken, +12% poise.",
+      "all": [
+        [
+          "iron_refuge",
+          1
+        ],
+        [
+          "heavy_footing",
+          1
+        ],
+        [
+          "patient_colossus",
+          1
+        ]
+      ],
+      "modifiers": [
+        {
+          "field": "toughness_damage_cut_rate",
+          "value": 0.88
+        },
+        {
+          "field": "neutral_damage_cut_rate",
+          "value": 0.95
+        },
+        {
+          "field": "slash_damage_cut_rate",
+          "value": 0.95
+        },
+        {
+          "field": "blow_damage_cut_rate",
+          "value": 0.95
+        },
+        {
+          "field": "thrust_damage_cut_rate",
+          "value": 0.95
+        }
+      ]
+    },
+    {
+      "id": "golden_order",
+      "name": "Golden Order",
+      "rarity": "mythic",
+      "description": "-10% holy damage taken, -5% magic damage taken, Wrath of gold hits 30% harder, Rejection hits 30% harder.",
+      "all": [
+        [
+          "golden_shelter",
+          1
+        ],
+        [
+          "marikas_mercy",
+          1
+        ]
+      ],
+      "modifiers": [
+        {
+          "field": "dark_damage_cut_rate",
+          "value": 0.9
+        },
+        {
+          "field": "magic_damage_cut_rate",
+          "value": 0.95
+        }
+      ],
+      "proc_power": {
+        "wrath_of_gold": 1.3,
+        "rejection": 1.3
+      }
+    },
+    {
+      "id": "grave_harvest",
+      "name": "Grave Harvest",
+      "rarity": "rare",
+      "description": "For 8 s after a kill: heal 0.3% HP per second.",
+      "all": [
+        [
+          "crimson_harvest",
+          2
+        ],
+        [
+          "carrion_feast",
+          1
+        ]
+      ],
+      "activation": {
+        "kind": "after_event",
+        "event": "kill",
+        "seconds": 8,
+        "minimum_stacks": 1
+      },
+      "modifiers": [
+        {
+          "field": "change_hp_rate",
+          "value": -0.3
+        },
+        {
+          "field": "motion_interval",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "deaths_dance",
+      "name": "Death's Dance",
+      "rarity": "epic",
+      "description": "For 1.2 s after a dodge: +10% physical damage, -8% stamina costs.",
+      "all": [
+        [
+          "graceful_reversal",
+          1
+        ],
+        [
+          "windstep",
+          1
+        ]
+      ],
+      "activation": {
+        "kind": "after_dodge",
+        "seconds": 1.2
+      },
+      "modifiers": [
+        {
+          "field": "physics_attack_rate",
+          "value": 1.1
+        },
+        {
+          "field": "consume_stamina_rate",
+          "value": 0.92
+        }
+      ]
+    },
+    {
+      "id": "arcane_fortune",
+      "name": "Arcane Fortune",
+      "rarity": "rare",
+      "description": "+10% runes, +10 item discovery.",
+      "all": [
+        [
+          "gilded_thread",
+          2
+        ],
+        [
+          "oracle_lens",
+          2
+        ]
+      ],
+      "modifiers": [
+        {
+          "field": "soul_rate",
+          "value": 1.1
+        },
+        {
+          "field": "item_drop_rate",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "id": "spellblade",
+      "name": "Spellblade",
+      "rarity": "rare",
+      "description": "+8% slash damage, -10% skill FP cost.",
+      "all": [
+        [
+          "spellblade_cradle",
+          1
+        ],
+        [
+          "martial_clarity",
+          1
+        ],
+        [
+          "edge_discipline",
+          1
+        ]
+      ],
+      "modifiers": [
+        {
+          "field": "slash_attack_rate",
+          "value": 1.08
+        },
+        {
+          "field": "arts_consumption_rate",
+          "value": 0.9
+        }
+      ]
+    },
+    {
+      "id": "undying",
+      "name": "Steadfast Heart",
+      "rarity": "epic",
+      "description": "+6% max HP.",
+      "all": [
+        [
+          "steady_pulse",
+          3
+        ],
+        [
+          "amber_vessel",
+          3
+        ]
+      ],
+      "modifiers": [
+        {
+          "field": "max_hp_rate",
+          "value": 1.06
+        }
+      ]
+    },
+    {
+      "id": "starfall",
+      "name": "Starfall",
+      "rarity": "mythic",
+      "description": "+6% magic and holy damage, Stars of ruin hits 25% harder, Elden stars hits 25% harder.",
+      "all": [
+        [
+          "ruin_comet",
+          1
+        ],
+        [
+          "elden_constellation",
+          1
+        ]
+      ],
+      "modifiers": [
+        {
+          "field": "magic_attack_rate",
+          "value": 1.06
+        },
+        {
+          "field": "dark_attack_rate",
+          "value": 1.06
+        }
+      ],
+      "proc_power": {
+        "ruin_stars": 1.25,
+        "elden_stars": 1.25
+      }
+    },
+    {
+      "id": "corpse_piler",
+      "name": "Corpse Piler",
+      "rarity": "legendary",
+      "description": "+5% physical damage, Bloodflame burst hits 20% harder, Ghostflame burst hits 20% harder, Rancor spirits hits 20% harder, Flame of the fell god hits 20% harder.",
+      "any_of": {
+        "count": 2,
+        "ids": [
+          "bloodflame_bloom",
+          "ghostflame_pyre",
+          "rancor_vengeance",
+          "fell_gods_pyre"
+        ]
+      },
+      "modifiers": [
+        {
+          "field": "physics_attack_rate",
+          "value": 1.05
+        }
+      ],
+      "proc_power": {
+        "bloodflame_burst": 1.2,
+        "ghostflame_burst": 1.2,
+        "rancor_spirits": 1.2,
+        "fell_pyre": 1.2
+      }
+    },
+    {
+      "id": "wanderers_lungs",
+      "name": "Wanderer's Lungs",
+      "rarity": "rare",
+      "description": "+8 stamina regen.",
+      "all": [
+        [
+          "green_well",
+          3
+        ],
+        [
+          "unbroken_reservoir",
+          2
+        ],
+        [
+          "second_wind",
+          1
+        ]
+      ],
+      "modifiers": [
+        {
+          "field": "stamina_recover_change_speed",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "id": "twin_moons",
+      "name": "Twin Moons",
+      "rarity": "epic",
+      "description": "-10% spell FP cost.",
+      "all": [
+        [
+          "dual_covenant",
+          1
+        ],
+        [
+          "quiet_formula",
+          1
+        ],
+        [
+          "devout_measure",
+          1
+        ]
+      ],
+      "modifiers": [
+        {
+          "field": "magic_consumption_rate",
+          "value": 0.9
+        },
+        {
+          "field": "miracle_consumption_rate",
+          "value": 0.9
+        }
+      ]
+    },
+    {
+      "id": "great_rune_bearer",
+      "name": "Great Rune Bearer",
+      "rarity": "mythic",
+      "description": "+5% max HP, +5% max stamina, +5% max FP.",
+      "all": [
+        [
+          "ascendant_blood",
+          1
+        ]
+      ],
+      "any_of": {
+        "count": 3,
+        "ids": [
+          "grafted_might",
+          "moonlit_mind",
+          "erdtree_devotion",
+          "serpents_luck",
+          "swift_hands"
+        ]
+      },
+      "modifiers": [
+        {
+          "field": "max_hp_rate",
+          "value": 1.05
+        },
+        {
+          "field": "max_stamina_rate",
+          "value": 1.05
+        },
+        {
+          "field": "max_mp_rate",
+          "value": 1.05
+        }
+      ]
+    },
+    {
+      "id": "duelists_instinct",
+      "name": "Duelist's Instinct",
+      "rarity": "epic",
+      "description": "+6% physical damage, +8 stamina regen.",
+      "all": [
+        [
+          "phantom_footwork",
+          1
+        ],
+        [
+          "bulwark_stance",
+          1
+        ],
+        [
+          "headsmans_mark",
+          1
+        ]
+      ],
+      "modifiers": [
+        {
+          "field": "physics_attack_rate",
+          "value": 1.06
+        },
+        {
+          "field": "stamina_recover_change_speed",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "id": "deft_hands",
+      "name": "Deft Hands",
+      "rarity": "rare",
+      "description": "+10 stamina regen, -5% stamina costs.",
+      "all": [
+        [
+          "second_breath",
+          1
+        ],
+        [
+          "swift_draught",
+          1
+        ]
+      ],
+      "modifiers": [
+        {
+          "field": "stamina_recover_change_speed",
+          "value": 10
+        },
+        {
+          "field": "consume_stamina_rate",
+          "value": 0.95
+        }
+      ]
+    },
+    {
+      "id": "witchs_harvest",
+      "name": "Witch's Harvest",
+      "rarity": "legendary",
+      "description": "Glintstone icecrag hits 20% harder, Bloodflame burst hits 15% harder, Rancor spirits hits 20% harder, Frenzied burst hits 20% harder, Swarm of flies hits 20% harder.",
+      "any_of": {
+        "count": 3,
+        "ids": [
+          "frost_shatter",
+          "hemorrhage_rite",
+          "dream_eater",
+          "contagious_frenzy",
+          "pestilent_bloom"
+        ]
+      },
+      "proc_power": {
+        "glintstone_icecrag": 1.2,
+        "bloodflame_burst": 1.15,
+        "rancor_spirits": 1.2,
+        "frenzied_burst": 1.2,
+        "fly_swarm": 1.2
+      }
+    },
+    {
+      "id": "breaking_point",
+      "name": "Breaking Point",
+      "rarity": "epic",
+      "description": "+8% stance damage, Meteorite hits 20% harder.",
+      "all": [
+        [
+          "shattering_quake",
+          1
+        ],
+        [
+          "shatterpoint",
+          1
+        ]
+      ],
+      "modifiers": [
+        {
+          "field": "sa_attack_power_rate",
+          "value": 1.08
+        }
+      ],
+      "proc_power": {
+        "meteorite": 1.2
+      }
+    },
+    {
+      "id": "glass_berserker",
+      "name": "Glass Berserker",
+      "rarity": "legendary",
+      "description": "+8% physical damage, +6 stamina regen.",
+      "all": [
+        [
+          "glass_cannon",
+          1
+        ],
+        [
+          "berserkers_oath",
+          1
+        ]
+      ],
+      "modifiers": [
+        {
+          "field": "physics_attack_rate",
+          "value": 1.08
+        },
+        {
+          "field": "stamina_recover_change_speed",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "id": "ashen_pact",
+      "name": "Ashen Pact",
+      "rarity": "legendary",
+      "description": "+8% fire damage, +6% magic damage.",
+      "all": [
+        [
+          "hollow_arcanum",
+          1
+        ],
+        [
+          "frenzied_pact",
+          1
+        ]
+      ],
+      "modifiers": [
+        {
+          "field": "fire_attack_rate",
+          "value": 1.08
+        },
+        {
+          "field": "magic_attack_rate",
+          "value": 1.06
+        }
+      ]
+    },
+    {
+      "id": "debtors_fortune",
+      "name": "Debtor's Fortune",
+      "rarity": "epic",
+      "description": "-5% damage taken, +12% runes.",
+      "all": [
+        [
+          "golden_greed",
+          1
+        ],
+        [
+          "ember_debt",
+          1
+        ]
+      ],
+      "modifiers": [
+        {
+          "field": "soul_rate",
+          "value": 1.12
+        },
+        {
+          "field": "slash_damage_cut_rate",
+          "value": 0.95
+        },
+        {
+          "field": "blow_damage_cut_rate",
+          "value": 0.95
+        },
+        {
+          "field": "thrust_damage_cut_rate",
+          "value": 0.95
+        },
+        {
+          "field": "neutral_damage_cut_rate",
+          "value": 0.95
+        },
+        {
+          "field": "magic_damage_cut_rate",
+          "value": 0.95
+        },
+        {
+          "field": "fire_damage_cut_rate",
+          "value": 0.95
+        },
+        {
+          "field": "thunder_damage_cut_rate",
+          "value": 0.95
+        },
+        {
+          "field": "dark_damage_cut_rate",
+          "value": 0.95
+        }
+      ]
+    },
+    {
+      "id": "crimson_covenant",
+      "name": "Crimson Covenant",
+      "rarity": "legendary",
+      "description": "Heal 0.3% HP per second.",
+      "all": [
+        [
+          "blood_price",
+          1
+        ],
+        [
+          "withered_flask",
+          1
+        ]
+      ],
+      "modifiers": [
+        {
+          "field": "change_hp_rate",
+          "value": -0.3
+        },
+        {
+          "field": "motion_interval",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "id": "duelists_pride",
+      "name": "Duelist's Pride",
+      "rarity": "epic",
+      "description": "+10% stance damage, +5% physical damage, Crystal burst hits 15% harder, Wrath of gold hits 15% harder, Ancient dragons' lightning hits 15% harder.",
+      "all": [
+        [
+          "riposte_tide",
+          1
+        ]
+      ],
+      "any_of": {
+        "count": 1,
+        "ids": [
+          "crystal_deflection",
+          "golden_retort",
+          "dragons_retort"
+        ]
+      },
+      "modifiers": [
+        {
+          "field": "sa_attack_power_rate",
+          "value": 1.1
+        },
+        {
+          "field": "physics_attack_rate",
+          "value": 1.05
+        }
+      ],
+      "proc_power": {
+        "crystal_burst": 1.15,
+        "wrath_of_gold": 1.15,
+        "ancient_lightning": 1.15
+      }
+    },
+    {
+      "id": "silent_blade",
+      "name": "Silent Blade",
+      "rarity": "rare",
+      "description": "+6% physical damage, -15% enemy hearing, Ghostflame burst hits 20% harder, Bloodflame burst hits 20% harder.",
+      "all": [
+        [
+          "shadow_step",
+          1
+        ]
+      ],
+      "any_of": {
+        "count": 1,
+        "ids": [
+          "shadows_kiss",
+          "crimson_ambush"
+        ]
+      },
+      "modifiers": [
+        {
+          "field": "physics_attack_rate",
+          "value": 1.06
+        },
+        {
+          "field": "hearing_search_enemy_rate",
+          "value": 0.85
+        }
+      ],
+      "proc_power": {
+        "ghostflame_burst": 1.2,
+        "bloodflame_burst": 1.2
+      }
+    },
+    {
+      "id": "perfect_defense",
+      "name": "Perfect Defense",
+      "rarity": "legendary",
+      "description": "-5% damage taken, +8 stamina regen.",
+      "all": [
+        [
+          "deflecting_calm",
+          1
+        ],
+        [
+          "bulwark_stance",
+          1
+        ],
+        [
+          "phantom_footwork",
+          1
+        ]
+      ],
+      "modifiers": [
+        {
+          "field": "slash_damage_cut_rate",
+          "value": 0.95
+        },
+        {
+          "field": "blow_damage_cut_rate",
+          "value": 0.95
+        },
+        {
+          "field": "thrust_damage_cut_rate",
+          "value": 0.95
+        },
+        {
+          "field": "neutral_damage_cut_rate",
+          "value": 0.95
+        },
+        {
+          "field": "magic_damage_cut_rate",
+          "value": 0.95
+        },
+        {
+          "field": "fire_damage_cut_rate",
+          "value": 0.95
+        },
+        {
+          "field": "thunder_damage_cut_rate",
+          "value": 0.95
+        },
+        {
+          "field": "dark_damage_cut_rate",
+          "value": 0.95
+        },
+        {
+          "field": "stamina_recover_change_speed",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "id": "ancestral_host",
+      "name": "Ancestral Host",
+      "rarity": "epic",
+      "description": "-5% damage taken.",
+      "all": [
+        [
+          "spirit_callers_bell",
+          1
+        ],
+        [
+          "ancestral_vigor",
+          1
+        ]
+      ],
+      "modifiers": [
+        {
+          "field": "slash_damage_cut_rate",
+          "value": 0.95
+        },
+        {
+          "field": "blow_damage_cut_rate",
+          "value": 0.95
+        },
+        {
+          "field": "thrust_damage_cut_rate",
+          "value": 0.95
+        },
+        {
+          "field": "neutral_damage_cut_rate",
+          "value": 0.95
+        },
+        {
+          "field": "magic_damage_cut_rate",
+          "value": 0.95
+        },
+        {
+          "field": "fire_damage_cut_rate",
+          "value": 0.95
+        },
+        {
+          "field": "thunder_damage_cut_rate",
+          "value": 0.95
+        },
+        {
+          "field": "dark_damage_cut_rate",
+          "value": 0.95
+        }
+      ]
+    },
+    {
+      "id": "butchers_rhythm",
+      "name": "Butcher's Rhythm",
+      "rarity": "legendary",
+      "description": "+6% damage, +10% stance damage.",
+      "all": [
+        [
+          "headsmans_toll",
+          1
+        ],
+        [
+          "bloodthirst_frenzy",
+          1
+        ]
+      ],
+      "modifiers": [
+        {
+          "field": "physics_attack_rate",
+          "value": 1.06
+        },
+        {
+          "field": "magic_attack_rate",
+          "value": 1.06
+        },
+        {
+          "field": "fire_attack_rate",
+          "value": 1.06
+        },
+        {
+          "field": "thunder_attack_rate",
+          "value": 1.06
+        },
+        {
+          "field": "dark_attack_rate",
+          "value": 1.06
+        },
+        {
+          "field": "sa_attack_power_rate",
+          "value": 1.1
+        }
+      ]
+    }
+  ]
+}

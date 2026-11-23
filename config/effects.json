@@ -1,0 +1,6019 @@
+{
+  "schema": 1,
+  "effects": [
+    {
+      "id": 95000000,
+      "name": "Ascension steady_pulse 1",
+      "fields": {
+        "changeHpRate": -0.05,
+        "motionInterval": 1,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000001,
+      "name": "Ascension steady_pulse 2",
+      "fields": {
+        "changeHpRate": -0.08,
+        "motionInterval": 1,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000002,
+      "name": "Ascension steady_pulse 3",
+      "fields": {
+        "changeHpRate": -0.12,
+        "motionInterval": 1,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000003,
+      "name": "Ascension steady_pulse 4",
+      "fields": {
+        "changeHpRate": -0.17,
+        "motionInterval": 1,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000004,
+      "name": "Ascension steady_pulse 5",
+      "fields": {
+        "changeHpRate": -0.24,
+        "motionInterval": 1,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000008,
+      "name": "Ascension green_well 1",
+      "fields": {
+        "staminaRecoverChangeSpeed": 3,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000009,
+      "name": "Ascension green_well 2",
+      "fields": {
+        "staminaRecoverChangeSpeed": 5,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000010,
+      "name": "Ascension green_well 3",
+      "fields": {
+        "staminaRecoverChangeSpeed": 7,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000011,
+      "name": "Ascension green_well 4",
+      "fields": {
+        "staminaRecoverChangeSpeed": 10,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000012,
+      "name": "Ascension green_well 5",
+      "fields": {
+        "staminaRecoverChangeSpeed": 14,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000016,
+      "name": "Ascension measured_breath 1",
+      "fields": {
+        "consumeStaminaRate": 0.97,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000017,
+      "name": "Ascension measured_breath 2",
+      "fields": {
+        "consumeStaminaRate": 0.95,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000018,
+      "name": "Ascension measured_breath 3",
+      "fields": {
+        "consumeStaminaRate": 0.93,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000019,
+      "name": "Ascension measured_breath 4",
+      "fields": {
+        "consumeStaminaRate": 0.9,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000020,
+      "name": "Ascension measured_breath 5",
+      "fields": {
+        "consumeStaminaRate": 0.86,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000024,
+      "name": "Ascension second_wind 1",
+      "fields": {
+        "staminaRecoverChangeSpeed": 7,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000025,
+      "name": "Ascension second_wind 2",
+      "fields": {
+        "staminaRecoverChangeSpeed": 11,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000026,
+      "name": "Ascension second_wind 3",
+      "fields": {
+        "staminaRecoverChangeSpeed": 15,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000027,
+      "name": "Ascension second_wind 4",
+      "fields": {
+        "staminaRecoverChangeSpeed": 20,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000028,
+      "name": "Ascension second_wind 5",
+      "fields": {
+        "staminaRecoverChangeSpeed": 26,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000032,
+      "name": "Ascension patient_scholar 1",
+      "fields": {
+        "changeMpPoint": -1,
+        "motionInterval": 1,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000033,
+      "name": "Ascension patient_scholar 2",
+      "fields": {
+        "changeMpPoint": -1,
+        "motionInterval": 1,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000034,
+      "name": "Ascension patient_scholar 3",
+      "fields": {
+        "changeMpPoint": -2,
+        "motionInterval": 1,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000035,
+      "name": "Ascension patient_scholar 4",
+      "fields": {
+        "changeMpPoint": -2,
+        "motionInterval": 1,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000036,
+      "name": "Ascension patient_scholar 5",
+      "fields": {
+        "changeMpPoint": -3,
+        "motionInterval": 1,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000040,
+      "name": "Ascension emergency_reserve 1",
+      "fields": {
+        "changeMpPoint": -1,
+        "motionInterval": 1,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000041,
+      "name": "Ascension emergency_reserve 2",
+      "fields": {
+        "changeMpPoint": -1,
+        "motionInterval": 1,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000042,
+      "name": "Ascension emergency_reserve 3",
+      "fields": {
+        "changeMpPoint": -2,
+        "motionInterval": 1,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000043,
+      "name": "Ascension emergency_reserve 4",
+      "fields": {
+        "changeMpPoint": -2,
+        "motionInterval": 1,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000044,
+      "name": "Ascension emergency_reserve 5",
+      "fields": {
+        "changeMpPoint": -3,
+        "motionInterval": 1,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000048,
+      "name": "Ascension crimson_drought 1",
+      "fields": {
+        "changeHpEstusFlaskCorrectRate": 1.07,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000049,
+      "name": "Ascension crimson_drought 2",
+      "fields": {
+        "changeHpEstusFlaskCorrectRate": 1.11,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000050,
+      "name": "Ascension crimson_drought 3",
+      "fields": {
+        "changeHpEstusFlaskCorrectRate": 1.16,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000051,
+      "name": "Ascension crimson_drought 4",
+      "fields": {
+        "changeHpEstusFlaskCorrectRate": 1.22,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000052,
+      "name": "Ascension crimson_drought 5",
+      "fields": {
+        "changeHpEstusFlaskCorrectRate": 1.3,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000056,
+      "name": "Ascension cerulean_drought 1",
+      "fields": {
+        "changeMpEstusFlaskCorrectRate": 1.08,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000057,
+      "name": "Ascension cerulean_drought 2",
+      "fields": {
+        "changeMpEstusFlaskCorrectRate": 1.13,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000058,
+      "name": "Ascension cerulean_drought 3",
+      "fields": {
+        "changeMpEstusFlaskCorrectRate": 1.19,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000059,
+      "name": "Ascension cerulean_drought 4",
+      "fields": {
+        "changeMpEstusFlaskCorrectRate": 1.26,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000060,
+      "name": "Ascension cerulean_drought 5",
+      "fields": {
+        "changeMpEstusFlaskCorrectRate": 1.35,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000064,
+      "name": "Ascension amber_vessel 1",
+      "fields": {
+        "maxHpRate": 1.03,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000065,
+      "name": "Ascension amber_vessel 2",
+      "fields": {
+        "maxHpRate": 1.05,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000066,
+      "name": "Ascension amber_vessel 3",
+      "fields": {
+        "maxHpRate": 1.08,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000067,
+      "name": "Ascension amber_vessel 4",
+      "fields": {
+        "maxHpRate": 1.12,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000068,
+      "name": "Ascension amber_vessel 5",
+      "fields": {
+        "maxHpRate": 1.17,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000072,
+      "name": "Ascension memory_vessel 1",
+      "fields": {
+        "maxMpRate": 1.04,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000073,
+      "name": "Ascension memory_vessel 2",
+      "fields": {
+        "maxMpRate": 1.07,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000074,
+      "name": "Ascension memory_vessel 3",
+      "fields": {
+        "maxMpRate": 1.11,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000075,
+      "name": "Ascension memory_vessel 4",
+      "fields": {
+        "maxMpRate": 1.16,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000076,
+      "name": "Ascension memory_vessel 5",
+      "fields": {
+        "maxMpRate": 1.22,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000080,
+      "name": "Ascension unbroken_reservoir 1",
+      "fields": {
+        "maxStaminaRate": 1.04,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000081,
+      "name": "Ascension unbroken_reservoir 2",
+      "fields": {
+        "maxStaminaRate": 1.07,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000082,
+      "name": "Ascension unbroken_reservoir 3",
+      "fields": {
+        "maxStaminaRate": 1.1,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000083,
+      "name": "Ascension unbroken_reservoir 4",
+      "fields": {
+        "maxStaminaRate": 1.14,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000084,
+      "name": "Ascension unbroken_reservoir 5",
+      "fields": {
+        "maxStaminaRate": 1.19,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000088,
+      "name": "Ascension wayfarers_frame 1",
+      "fields": {
+        "equipWeightChangeRate": 1.04,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000089,
+      "name": "Ascension wayfarers_frame 2",
+      "fields": {
+        "equipWeightChangeRate": 1.07,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000090,
+      "name": "Ascension wayfarers_frame 3",
+      "fields": {
+        "equipWeightChangeRate": 1.11,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000091,
+      "name": "Ascension wayfarers_frame 4",
+      "fields": {
+        "equipWeightChangeRate": 1.16,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000092,
+      "name": "Ascension wayfarers_frame 5",
+      "fields": {
+        "equipWeightChangeRate": 1.22,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000096,
+      "name": "Ascension silent_pilgrim 1",
+      "fields": {
+        "sightSearchEnemyRate": 0.92,
+        "hearingSearchEnemyRate": 0.9,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000097,
+      "name": "Ascension silent_pilgrim 2",
+      "fields": {
+        "sightSearchEnemyRate": 0.86,
+        "hearingSearchEnemyRate": 0.83,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000098,
+      "name": "Ascension silent_pilgrim 3",
+      "fields": {
+        "sightSearchEnemyRate": 0.79,
+        "hearingSearchEnemyRate": 0.75,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000099,
+      "name": "Ascension silent_pilgrim 4",
+      "fields": {
+        "sightSearchEnemyRate": 0.71,
+        "hearingSearchEnemyRate": 0.66,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000100,
+      "name": "Ascension silent_pilgrim 5",
+      "fields": {
+        "sightSearchEnemyRate": 0.62,
+        "hearingSearchEnemyRate": 0.55,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000104,
+      "name": "Ascension soft_landing 1",
+      "fields": {
+        "fallDamageRate": 0.9,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000105,
+      "name": "Ascension soft_landing 2",
+      "fields": {
+        "fallDamageRate": 0.8,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000106,
+      "name": "Ascension soft_landing 3",
+      "fields": {
+        "fallDamageRate": 0.68,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000107,
+      "name": "Ascension soft_landing 4",
+      "fields": {
+        "fallDamageRate": 0.54,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000108,
+      "name": "Ascension soft_landing 5",
+      "fields": {
+        "fallDamageRate": 0.38,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000112,
+      "name": "Ascension heavy_footing 1",
+      "fields": {
+        "toughnessDamageCutRate": 0.96,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000113,
+      "name": "Ascension heavy_footing 2",
+      "fields": {
+        "toughnessDamageCutRate": 0.93,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000114,
+      "name": "Ascension heavy_footing 3",
+      "fields": {
+        "toughnessDamageCutRate": 0.89,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000115,
+      "name": "Ascension heavy_footing 4",
+      "fields": {
+        "toughnessDamageCutRate": 0.84,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000116,
+      "name": "Ascension heavy_footing 5",
+      "fields": {
+        "toughnessDamageCutRate": 0.78,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000120,
+      "name": "Ascension stonebreaker 1",
+      "fields": {
+        "saAttackPowerRate": 1.04,
+        "staminaAttackRate": 1.03,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000121,
+      "name": "Ascension stonebreaker 2",
+      "fields": {
+        "saAttackPowerRate": 1.07,
+        "staminaAttackRate": 1.05,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000122,
+      "name": "Ascension stonebreaker 3",
+      "fields": {
+        "saAttackPowerRate": 1.11,
+        "staminaAttackRate": 1.08,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000123,
+      "name": "Ascension stonebreaker 4",
+      "fields": {
+        "saAttackPowerRate": 1.16,
+        "staminaAttackRate": 1.12,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000124,
+      "name": "Ascension stonebreaker 5",
+      "fields": {
+        "saAttackPowerRate": 1.23,
+        "staminaAttackRate": 1.18,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000128,
+      "name": "Ascension guardkeeper 1",
+      "fields": {
+        "guardStaminaMult": 0.97,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000129,
+      "name": "Ascension guardkeeper 2",
+      "fields": {
+        "guardStaminaMult": 0.94,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000130,
+      "name": "Ascension guardkeeper 3",
+      "fields": {
+        "guardStaminaMult": 0.9,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000131,
+      "name": "Ascension guardkeeper 4",
+      "fields": {
+        "guardStaminaMult": 0.85,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000132,
+      "name": "Ascension guardkeeper 5",
+      "fields": {
+        "guardStaminaMult": 0.79,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000136,
+      "name": "Ascension reprisal 1",
+      "fields": {
+        "physicsAttackRate": 1.05,
+        "toughnessDamageCutRate": 0.98,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000137,
+      "name": "Ascension reprisal 2",
+      "fields": {
+        "physicsAttackRate": 1.08,
+        "toughnessDamageCutRate": 0.96,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000138,
+      "name": "Ascension reprisal 3",
+      "fields": {
+        "physicsAttackRate": 1.12,
+        "toughnessDamageCutRate": 0.93,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000139,
+      "name": "Ascension reprisal 4",
+      "fields": {
+        "physicsAttackRate": 1.17,
+        "toughnessDamageCutRate": 0.89,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000140,
+      "name": "Ascension reprisal 5",
+      "fields": {
+        "physicsAttackRate": 1.24,
+        "toughnessDamageCutRate": 0.84,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000144,
+      "name": "Ascension cinder_reserve 1",
+      "fields": {
+        "fireAttackRate": 1.06,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000145,
+      "name": "Ascension cinder_reserve 2",
+      "fields": {
+        "fireAttackRate": 1.1,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000146,
+      "name": "Ascension cinder_reserve 3",
+      "fields": {
+        "fireAttackRate": 1.15,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000147,
+      "name": "Ascension cinder_reserve 4",
+      "fields": {
+        "fireAttackRate": 1.21,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000148,
+      "name": "Ascension cinder_reserve 5",
+      "fields": {
+        "fireAttackRate": 1.29,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000152,
+      "name": "Ascension storm_capacitor 1",
+      "fields": {
+        "thunderAttackRate": 1.05,
+        "artsConsumptionRate": 1.06,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000153,
+      "name": "Ascension storm_capacitor 2",
+      "fields": {
+        "thunderAttackRate": 1.09,
+        "artsConsumptionRate": 1.06,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000154,
+      "name": "Ascension storm_capacitor 3",
+      "fields": {
+        "thunderAttackRate": 1.14,
+        "artsConsumptionRate": 1.06,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000155,
+      "name": "Ascension storm_capacitor 4",
+      "fields": {
+        "thunderAttackRate": 1.2,
+        "artsConsumptionRate": 1.06,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000156,
+      "name": "Ascension storm_capacitor 5",
+      "fields": {
+        "thunderAttackRate": 1.28,
+        "artsConsumptionRate": 1.06,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000160,
+      "name": "Ascension full_moon_covenant 1",
+      "fields": {
+        "magicAttackRate": 1.07,
+        "magicDamageCutRate": 1.08,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000161,
+      "name": "Ascension full_moon_covenant 2",
+      "fields": {
+        "magicAttackRate": 1.12,
+        "magicDamageCutRate": 1.08,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000162,
+      "name": "Ascension full_moon_covenant 3",
+      "fields": {
+        "magicAttackRate": 1.18,
+        "magicDamageCutRate": 1.08,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000163,
+      "name": "Ascension full_moon_covenant 4",
+      "fields": {
+        "magicAttackRate": 1.25,
+        "magicDamageCutRate": 1.08,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000164,
+      "name": "Ascension full_moon_covenant 5",
+      "fields": {
+        "magicAttackRate": 1.34,
+        "magicDamageCutRate": 1.08,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000168,
+      "name": "Ascension golden_shelter 1",
+      "fields": {
+        "darkDamageCutRate": 0.95,
+        "magicDamageCutRate": 0.97,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000169,
+      "name": "Ascension golden_shelter 2",
+      "fields": {
+        "darkDamageCutRate": 0.92,
+        "magicDamageCutRate": 0.94,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000170,
+      "name": "Ascension golden_shelter 3",
+      "fields": {
+        "darkDamageCutRate": 0.88,
+        "magicDamageCutRate": 0.9,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000171,
+      "name": "Ascension golden_shelter 4",
+      "fields": {
+        "darkDamageCutRate": 0.83,
+        "magicDamageCutRate": 0.85,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000172,
+      "name": "Ascension golden_shelter 5",
+      "fields": {
+        "darkDamageCutRate": 0.76,
+        "magicDamageCutRate": 0.79,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000176,
+      "name": "Ascension ashskin 1",
+      "fields": {
+        "fireDamageCutRate": 0.94,
+        "toughnessDamageCutRate": 0.97,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000177,
+      "name": "Ascension ashskin 2",
+      "fields": {
+        "fireDamageCutRate": 0.9,
+        "toughnessDamageCutRate": 0.94,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000178,
+      "name": "Ascension ashskin 3",
+      "fields": {
+        "fireDamageCutRate": 0.85,
+        "toughnessDamageCutRate": 0.9,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000179,
+      "name": "Ascension ashskin 4",
+      "fields": {
+        "fireDamageCutRate": 0.79,
+        "toughnessDamageCutRate": 0.85,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000180,
+      "name": "Ascension ashskin 5",
+      "fields": {
+        "fireDamageCutRate": 0.71,
+        "toughnessDamageCutRate": 0.79,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000184,
+      "name": "Ascension iron_refuge 1",
+      "fields": {
+        "slashDamageCutRate": 0.95,
+        "blowDamageCutRate": 0.95,
+        "thrustDamageCutRate": 0.95,
+        "neutralDamageCutRate": 0.95,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000185,
+      "name": "Ascension iron_refuge 2",
+      "fields": {
+        "slashDamageCutRate": 0.92,
+        "blowDamageCutRate": 0.92,
+        "thrustDamageCutRate": 0.92,
+        "neutralDamageCutRate": 0.92,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000186,
+      "name": "Ascension iron_refuge 3",
+      "fields": {
+        "slashDamageCutRate": 0.88,
+        "blowDamageCutRate": 0.88,
+        "thrustDamageCutRate": 0.88,
+        "neutralDamageCutRate": 0.88,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000187,
+      "name": "Ascension iron_refuge 4",
+      "fields": {
+        "slashDamageCutRate": 0.83,
+        "blowDamageCutRate": 0.83,
+        "thrustDamageCutRate": 0.83,
+        "neutralDamageCutRate": 0.83,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000188,
+      "name": "Ascension iron_refuge 5",
+      "fields": {
+        "slashDamageCutRate": 0.76,
+        "blowDamageCutRate": 0.76,
+        "thrustDamageCutRate": 0.76,
+        "neutralDamageCutRate": 0.76,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000192,
+      "name": "Ascension cleansing_bloom 1",
+      "fields": {
+        "registPoizonChangeRate": 1.08,
+        "registDiseaseChangeRate": 1.08,
+        "poisonDefDamageRate": 0.98,
+        "diseaseDefDamageRate": 0.98,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000193,
+      "name": "Ascension cleansing_bloom 2",
+      "fields": {
+        "registPoizonChangeRate": 1.13,
+        "registDiseaseChangeRate": 1.13,
+        "poisonDefDamageRate": 0.96,
+        "diseaseDefDamageRate": 0.96,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000194,
+      "name": "Ascension cleansing_bloom 3",
+      "fields": {
+        "registPoizonChangeRate": 1.19,
+        "registDiseaseChangeRate": 1.19,
+        "poisonDefDamageRate": 0.93,
+        "diseaseDefDamageRate": 0.93,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000195,
+      "name": "Ascension cleansing_bloom 4",
+      "fields": {
+        "registPoizonChangeRate": 1.26,
+        "registDiseaseChangeRate": 1.26,
+        "poisonDefDamageRate": 0.89,
+        "diseaseDefDamageRate": 0.89,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000196,
+      "name": "Ascension cleansing_bloom 5",
+      "fields": {
+        "registPoizonChangeRate": 1.35,
+        "registDiseaseChangeRate": 1.35,
+        "poisonDefDamageRate": 0.83,
+        "diseaseDefDamageRate": 0.83,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000200,
+      "name": "Ascension bloodless_resolve 1",
+      "fields": {
+        "registBloodChangeRate": 1.1,
+        "registFreezeChangeRate": 1.1,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000201,
+      "name": "Ascension bloodless_resolve 2",
+      "fields": {
+        "registBloodChangeRate": 1.17,
+        "registFreezeChangeRate": 1.17,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000202,
+      "name": "Ascension bloodless_resolve 3",
+      "fields": {
+        "registBloodChangeRate": 1.26,
+        "registFreezeChangeRate": 1.26,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000203,
+      "name": "Ascension bloodless_resolve 4",
+      "fields": {
+        "registBloodChangeRate": 1.37,
+        "registFreezeChangeRate": 1.37,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000204,
+      "name": "Ascension bloodless_resolve 5",
+      "fields": {
+        "registBloodChangeRate": 1.52,
+        "registFreezeChangeRate": 1.52,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000208,
+      "name": "Ascension waking_vigil 1",
+      "fields": {
+        "registSleepChangeRate": 1.1,
+        "registMadnessChangeRate": 1.1,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000209,
+      "name": "Ascension waking_vigil 2",
+      "fields": {
+        "registSleepChangeRate": 1.17,
+        "registMadnessChangeRate": 1.17,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000210,
+      "name": "Ascension waking_vigil 3",
+      "fields": {
+        "registSleepChangeRate": 1.26,
+        "registMadnessChangeRate": 1.26,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000211,
+      "name": "Ascension waking_vigil 4",
+      "fields": {
+        "registSleepChangeRate": 1.37,
+        "registMadnessChangeRate": 1.37,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000212,
+      "name": "Ascension waking_vigil 5",
+      "fields": {
+        "registSleepChangeRate": 1.52,
+        "registMadnessChangeRate": 1.52,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000216,
+      "name": "Ascension grave_whisper 1",
+      "fields": {
+        "registCurseChangeRate": 1.12,
+        "itemDropRate": 3,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000217,
+      "name": "Ascension grave_whisper 2",
+      "fields": {
+        "registCurseChangeRate": 1.2,
+        "itemDropRate": 5,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000218,
+      "name": "Ascension grave_whisper 3",
+      "fields": {
+        "registCurseChangeRate": 1.3,
+        "itemDropRate": 8,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000219,
+      "name": "Ascension grave_whisper 4",
+      "fields": {
+        "registCurseChangeRate": 1.43,
+        "itemDropRate": 12,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000220,
+      "name": "Ascension grave_whisper 5",
+      "fields": {
+        "registCurseChangeRate": 1.6,
+        "itemDropRate": 18,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000224,
+      "name": "Ascension oracle_lens 1",
+      "fields": {
+        "itemDropRate": 5,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000225,
+      "name": "Ascension oracle_lens 2",
+      "fields": {
+        "itemDropRate": 9,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000226,
+      "name": "Ascension oracle_lens 3",
+      "fields": {
+        "itemDropRate": 14,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000227,
+      "name": "Ascension oracle_lens 4",
+      "fields": {
+        "itemDropRate": 20,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000228,
+      "name": "Ascension oracle_lens 5",
+      "fields": {
+        "itemDropRate": 28,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000232,
+      "name": "Ascension gilded_thread 1",
+      "fields": {
+        "soulRate": 1.04,
+        "effectEndurance": -1,
+        "stateInfo": 76
+      }
+    },
+    {
+      "id": 95000233,
+      "name": "Ascension gilded_thread 2",
+      "fields": {
+        "soulRate": 1.07,
+        "effectEndurance": -1,
+        "stateInfo": 76
+      }
+    },
+    {
+      "id": 95000234,
+      "name": "Ascension gilded_thread 3",
+      "fields": {
+        "soulRate": 1.11,
+        "effectEndurance": -1,
+        "stateInfo": 76
+      }
+    },
+    {
+      "id": 95000235,
+      "name": "Ascension gilded_thread 4",
+      "fields": {
+        "soulRate": 1.16,
+        "effectEndurance": -1,
+        "stateInfo": 76
+      }
+    },
+    {
+      "id": 95000236,
+      "name": "Ascension gilded_thread 5",
+      "fields": {
+        "soulRate": 1.23,
+        "effectEndurance": -1,
+        "stateInfo": 76
+      }
+    },
+    {
+      "id": 95000240,
+      "name": "Ascension long_invocation 1",
+      "fields": {
+        "magicEffectTimeChange": 2,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000241,
+      "name": "Ascension long_invocation 2",
+      "fields": {
+        "magicEffectTimeChange": 4,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000242,
+      "name": "Ascension long_invocation 3",
+      "fields": {
+        "magicEffectTimeChange": 7,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000243,
+      "name": "Ascension long_invocation 4",
+      "fields": {
+        "magicEffectTimeChange": 11,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000244,
+      "name": "Ascension long_invocation 5",
+      "fields": {
+        "magicEffectTimeChange": 16,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000248,
+      "name": "Ascension quiet_formula 1",
+      "fields": {
+        "magicConsumptionRate": 0.98,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000249,
+      "name": "Ascension quiet_formula 2",
+      "fields": {
+        "magicConsumptionRate": 0.96,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000250,
+      "name": "Ascension quiet_formula 3",
+      "fields": {
+        "magicConsumptionRate": 0.93,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000251,
+      "name": "Ascension quiet_formula 4",
+      "fields": {
+        "magicConsumptionRate": 0.89,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000252,
+      "name": "Ascension quiet_formula 5",
+      "fields": {
+        "magicConsumptionRate": 0.84,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000256,
+      "name": "Ascension devout_measure 1",
+      "fields": {
+        "miracleConsumptionRate": 0.98,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000257,
+      "name": "Ascension devout_measure 2",
+      "fields": {
+        "miracleConsumptionRate": 0.96,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000258,
+      "name": "Ascension devout_measure 3",
+      "fields": {
+        "miracleConsumptionRate": 0.93,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000259,
+      "name": "Ascension devout_measure 4",
+      "fields": {
+        "miracleConsumptionRate": 0.89,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000260,
+      "name": "Ascension devout_measure 5",
+      "fields": {
+        "miracleConsumptionRate": 0.84,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000264,
+      "name": "Ascension martial_clarity 1",
+      "fields": {
+        "artsConsumptionRate": 0.97,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000265,
+      "name": "Ascension martial_clarity 2",
+      "fields": {
+        "artsConsumptionRate": 0.94,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000266,
+      "name": "Ascension martial_clarity 3",
+      "fields": {
+        "artsConsumptionRate": 0.9,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000267,
+      "name": "Ascension martial_clarity 4",
+      "fields": {
+        "artsConsumptionRate": 0.85,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000268,
+      "name": "Ascension martial_clarity 5",
+      "fields": {
+        "artsConsumptionRate": 0.79,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000272,
+      "name": "Ascension dual_covenant 1",
+      "fields": {
+        "magicConsumptionRate": 0.96,
+        "miracleConsumptionRate": 0.96,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000273,
+      "name": "Ascension dual_covenant 2",
+      "fields": {
+        "magicConsumptionRate": 0.92,
+        "miracleConsumptionRate": 0.92,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000274,
+      "name": "Ascension dual_covenant 3",
+      "fields": {
+        "magicConsumptionRate": 0.87,
+        "miracleConsumptionRate": 0.87,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000275,
+      "name": "Ascension dual_covenant 4",
+      "fields": {
+        "magicConsumptionRate": 0.81,
+        "miracleConsumptionRate": 0.81,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000276,
+      "name": "Ascension dual_covenant 5",
+      "fields": {
+        "magicConsumptionRate": 0.74,
+        "miracleConsumptionRate": 0.74,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000280,
+      "name": "Ascension spellblade_cradle 1",
+      "fields": {
+        "artsConsumptionRate": 0.95,
+        "consumeStaminaRate": 1.04,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000281,
+      "name": "Ascension spellblade_cradle 2",
+      "fields": {
+        "artsConsumptionRate": 0.91,
+        "consumeStaminaRate": 1.04,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000282,
+      "name": "Ascension spellblade_cradle 3",
+      "fields": {
+        "artsConsumptionRate": 0.86,
+        "consumeStaminaRate": 1.04,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000283,
+      "name": "Ascension spellblade_cradle 4",
+      "fields": {
+        "artsConsumptionRate": 0.8,
+        "consumeStaminaRate": 1.04,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000284,
+      "name": "Ascension spellblade_cradle 5",
+      "fields": {
+        "artsConsumptionRate": 0.72,
+        "consumeStaminaRate": 1.04,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000288,
+      "name": "Ascension anchored_rhythm 1",
+      "fields": {
+        "guardStaminaMult": 0.95,
+        "changeSaRecoveryVelocity": 1.04,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000289,
+      "name": "Ascension anchored_rhythm 2",
+      "fields": {
+        "guardStaminaMult": 0.91,
+        "changeSaRecoveryVelocity": 1.08,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000290,
+      "name": "Ascension anchored_rhythm 3",
+      "fields": {
+        "guardStaminaMult": 0.86,
+        "changeSaRecoveryVelocity": 1.13,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000291,
+      "name": "Ascension anchored_rhythm 4",
+      "fields": {
+        "guardStaminaMult": 0.8,
+        "changeSaRecoveryVelocity": 1.19,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000292,
+      "name": "Ascension anchored_rhythm 5",
+      "fields": {
+        "guardStaminaMult": 0.72,
+        "changeSaRecoveryVelocity": 1.27,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000296,
+      "name": "Ascension needle_bargain 1",
+      "fields": {
+        "thrustAttackRate": 1.06,
+        "toughnessDamageCutRate": 1.08,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000297,
+      "name": "Ascension needle_bargain 2",
+      "fields": {
+        "thrustAttackRate": 1.1,
+        "toughnessDamageCutRate": 1.08,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000298,
+      "name": "Ascension needle_bargain 3",
+      "fields": {
+        "thrustAttackRate": 1.15,
+        "toughnessDamageCutRate": 1.08,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000299,
+      "name": "Ascension needle_bargain 4",
+      "fields": {
+        "thrustAttackRate": 1.21,
+        "toughnessDamageCutRate": 1.08,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000300,
+      "name": "Ascension needle_bargain 5",
+      "fields": {
+        "thrustAttackRate": 1.29,
+        "toughnessDamageCutRate": 1.08,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000304,
+      "name": "Ascension wandering_anvil 1",
+      "fields": {
+        "saAttackPowerRate": 1.06,
+        "toughnessDamageCutRate": 0.98,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000305,
+      "name": "Ascension wandering_anvil 2",
+      "fields": {
+        "saAttackPowerRate": 1.1,
+        "toughnessDamageCutRate": 0.96,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000306,
+      "name": "Ascension wandering_anvil 3",
+      "fields": {
+        "saAttackPowerRate": 1.15,
+        "toughnessDamageCutRate": 0.93,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000307,
+      "name": "Ascension wandering_anvil 4",
+      "fields": {
+        "saAttackPowerRate": 1.21,
+        "toughnessDamageCutRate": 0.89,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000308,
+      "name": "Ascension wandering_anvil 5",
+      "fields": {
+        "saAttackPowerRate": 1.29,
+        "toughnessDamageCutRate": 0.84,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000312,
+      "name": "Ascension eclipse_balance 1",
+      "fields": {
+        "neutralDamageCutRate": 0.94,
+        "slashDamageCutRate": 0.94,
+        "blowDamageCutRate": 0.94,
+        "thrustDamageCutRate": 0.94,
+        "magicConsumptionRate": 1.08,
+        "miracleConsumptionRate": 1.08,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000313,
+      "name": "Ascension eclipse_balance 2",
+      "fields": {
+        "neutralDamageCutRate": 0.9,
+        "slashDamageCutRate": 0.9,
+        "blowDamageCutRate": 0.9,
+        "thrustDamageCutRate": 0.9,
+        "magicConsumptionRate": 1.08,
+        "miracleConsumptionRate": 1.08,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000314,
+      "name": "Ascension eclipse_balance 3",
+      "fields": {
+        "neutralDamageCutRate": 0.85,
+        "slashDamageCutRate": 0.85,
+        "blowDamageCutRate": 0.85,
+        "thrustDamageCutRate": 0.85,
+        "magicConsumptionRate": 1.08,
+        "miracleConsumptionRate": 1.08,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000315,
+      "name": "Ascension eclipse_balance 4",
+      "fields": {
+        "neutralDamageCutRate": 0.79,
+        "slashDamageCutRate": 0.79,
+        "blowDamageCutRate": 0.79,
+        "thrustDamageCutRate": 0.79,
+        "magicConsumptionRate": 1.08,
+        "miracleConsumptionRate": 1.08,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000316,
+      "name": "Ascension eclipse_balance 5",
+      "fields": {
+        "neutralDamageCutRate": 0.71,
+        "slashDamageCutRate": 0.71,
+        "blowDamageCutRate": 0.71,
+        "thrustDamageCutRate": 0.71,
+        "magicConsumptionRate": 1.08,
+        "miracleConsumptionRate": 1.08,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000320,
+      "name": "Ascension graceful_reversal 1",
+      "fields": {
+        "physicsAttackRate": 1.04,
+        "saAttackPowerRate": 1.04,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000321,
+      "name": "Ascension graceful_reversal 2",
+      "fields": {
+        "physicsAttackRate": 1.07,
+        "saAttackPowerRate": 1.07,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000322,
+      "name": "Ascension graceful_reversal 3",
+      "fields": {
+        "physicsAttackRate": 1.11,
+        "saAttackPowerRate": 1.11,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000323,
+      "name": "Ascension graceful_reversal 4",
+      "fields": {
+        "physicsAttackRate": 1.16,
+        "saAttackPowerRate": 1.16,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000324,
+      "name": "Ascension graceful_reversal 5",
+      "fields": {
+        "physicsAttackRate": 1.23,
+        "saAttackPowerRate": 1.23,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000328,
+      "name": "Ascension moving_bastion 1",
+      "fields": {
+        "staminaRecoverChangeSpeed": 3,
+        "toughnessDamageCutRate": 0.98,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000329,
+      "name": "Ascension moving_bastion 2",
+      "fields": {
+        "staminaRecoverChangeSpeed": 5,
+        "toughnessDamageCutRate": 0.96,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000330,
+      "name": "Ascension moving_bastion 3",
+      "fields": {
+        "staminaRecoverChangeSpeed": 8,
+        "toughnessDamageCutRate": 0.93,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000331,
+      "name": "Ascension moving_bastion 4",
+      "fields": {
+        "staminaRecoverChangeSpeed": 12,
+        "toughnessDamageCutRate": 0.89,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000332,
+      "name": "Ascension moving_bastion 5",
+      "fields": {
+        "staminaRecoverChangeSpeed": 17,
+        "toughnessDamageCutRate": 0.84,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000336,
+      "name": "Ascension patient_colossus 1",
+      "fields": {
+        "toughnessDamageCutRate": 0.96,
+        "saAttackPowerRate": 1.04,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000337,
+      "name": "Ascension patient_colossus 2",
+      "fields": {
+        "toughnessDamageCutRate": 0.92,
+        "saAttackPowerRate": 1.07,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000338,
+      "name": "Ascension patient_colossus 3",
+      "fields": {
+        "toughnessDamageCutRate": 0.87,
+        "saAttackPowerRate": 1.11,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000339,
+      "name": "Ascension patient_colossus 4",
+      "fields": {
+        "toughnessDamageCutRate": 0.81,
+        "saAttackPowerRate": 1.16,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000340,
+      "name": "Ascension patient_colossus 5",
+      "fields": {
+        "toughnessDamageCutRate": 0.74,
+        "saAttackPowerRate": 1.23,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000344,
+      "name": "Ascension long_hunt 1",
+      "fields": {
+        "staminaRecoverChangeSpeed": 4,
+        "consumeStaminaRate": 0.98,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000345,
+      "name": "Ascension long_hunt 2",
+      "fields": {
+        "staminaRecoverChangeSpeed": 7,
+        "consumeStaminaRate": 0.96,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000346,
+      "name": "Ascension long_hunt 3",
+      "fields": {
+        "staminaRecoverChangeSpeed": 11,
+        "consumeStaminaRate": 0.93,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000347,
+      "name": "Ascension long_hunt 4",
+      "fields": {
+        "staminaRecoverChangeSpeed": 16,
+        "consumeStaminaRate": 0.89,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000348,
+      "name": "Ascension long_hunt 5",
+      "fields": {
+        "staminaRecoverChangeSpeed": 22,
+        "consumeStaminaRate": 0.84,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95005352,
+      "name": "Ascension crimson_harvest 1 on-kill payload",
+      "fields": {
+        "changeHpRate": -0.2,
+        "changeHpPoint": -2,
+        "effectEndurance": 0,
+        "motionInterval": 1
+      }
+    },
+    {
+      "id": 95000352,
+      "name": "Ascension crimson_harvest 1",
+      "fields": {
+        "effectEndurance": -1,
+        "stateInfo": 199,
+        "applyIdOnGetSoul": 95005352
+      }
+    },
+    {
+      "id": 95005353,
+      "name": "Ascension crimson_harvest 2 on-kill payload",
+      "fields": {
+        "changeHpRate": -0.35,
+        "changeHpPoint": -4,
+        "effectEndurance": 0,
+        "motionInterval": 1
+      }
+    },
+    {
+      "id": 95000353,
+      "name": "Ascension crimson_harvest 2",
+      "fields": {
+        "effectEndurance": -1,
+        "stateInfo": 199,
+        "applyIdOnGetSoul": 95005353
+      }
+    },
+    {
+      "id": 95005354,
+      "name": "Ascension crimson_harvest 3 on-kill payload",
+      "fields": {
+        "changeHpRate": -0.55,
+        "changeHpPoint": -7,
+        "effectEndurance": 0,
+        "motionInterval": 1
+      }
+    },
+    {
+      "id": 95000354,
+      "name": "Ascension crimson_harvest 3",
+      "fields": {
+        "effectEndurance": -1,
+        "stateInfo": 199,
+        "applyIdOnGetSoul": 95005354
+      }
+    },
+    {
+      "id": 95005355,
+      "name": "Ascension crimson_harvest 4 on-kill payload",
+      "fields": {
+        "changeHpRate": -0.8,
+        "changeHpPoint": -11,
+        "effectEndurance": 0,
+        "motionInterval": 1
+      }
+    },
+    {
+      "id": 95000355,
+      "name": "Ascension crimson_harvest 4",
+      "fields": {
+        "effectEndurance": -1,
+        "stateInfo": 199,
+        "applyIdOnGetSoul": 95005355
+      }
+    },
+    {
+      "id": 95005356,
+      "name": "Ascension crimson_harvest 5 on-kill payload",
+      "fields": {
+        "changeHpRate": -1.1,
+        "changeHpPoint": -16,
+        "effectEndurance": 0,
+        "motionInterval": 1
+      }
+    },
+    {
+      "id": 95000356,
+      "name": "Ascension crimson_harvest 5",
+      "fields": {
+        "effectEndurance": -1,
+        "stateInfo": 199,
+        "applyIdOnGetSoul": 95005356
+      }
+    },
+    {
+      "id": 95005360,
+      "name": "Ascension azure_harvest 1 on-kill payload",
+      "fields": {
+        "changeMpPoint": -1,
+        "effectEndurance": 0,
+        "motionInterval": 1
+      }
+    },
+    {
+      "id": 95000360,
+      "name": "Ascension azure_harvest 1",
+      "fields": {
+        "effectEndurance": -1,
+        "stateInfo": 199,
+        "applyIdOnGetSoul": 95005360
+      }
+    },
+    {
+      "id": 95005361,
+      "name": "Ascension azure_harvest 2 on-kill payload",
+      "fields": {
+        "changeMpPoint": -2,
+        "effectEndurance": 0,
+        "motionInterval": 1
+      }
+    },
+    {
+      "id": 95000361,
+      "name": "Ascension azure_harvest 2",
+      "fields": {
+        "effectEndurance": -1,
+        "stateInfo": 199,
+        "applyIdOnGetSoul": 95005361
+      }
+    },
+    {
+      "id": 95005362,
+      "name": "Ascension azure_harvest 3 on-kill payload",
+      "fields": {
+        "changeMpPoint": -3,
+        "effectEndurance": 0,
+        "motionInterval": 1
+      }
+    },
+    {
+      "id": 95000362,
+      "name": "Ascension azure_harvest 3",
+      "fields": {
+        "effectEndurance": -1,
+        "stateInfo": 199,
+        "applyIdOnGetSoul": 95005362
+      }
+    },
+    {
+      "id": 95005363,
+      "name": "Ascension azure_harvest 4 on-kill payload",
+      "fields": {
+        "changeMpPoint": -4,
+        "effectEndurance": 0,
+        "motionInterval": 1
+      }
+    },
+    {
+      "id": 95000363,
+      "name": "Ascension azure_harvest 4",
+      "fields": {
+        "effectEndurance": -1,
+        "stateInfo": 199,
+        "applyIdOnGetSoul": 95005363
+      }
+    },
+    {
+      "id": 95005364,
+      "name": "Ascension azure_harvest 5 on-kill payload",
+      "fields": {
+        "changeMpPoint": -6,
+        "effectEndurance": 0,
+        "motionInterval": 1
+      }
+    },
+    {
+      "id": 95000364,
+      "name": "Ascension azure_harvest 5",
+      "fields": {
+        "effectEndurance": -1,
+        "stateInfo": 199,
+        "applyIdOnGetSoul": 95005364
+      }
+    },
+    {
+      "id": 95000368,
+      "name": "Ascension blood_communion 1",
+      "fields": {
+        "bloodAttackPower": 8,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000369,
+      "name": "Ascension blood_communion 2",
+      "fields": {
+        "bloodAttackPower": 13,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000370,
+      "name": "Ascension blood_communion 3",
+      "fields": {
+        "bloodAttackPower": 19,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000371,
+      "name": "Ascension blood_communion 4",
+      "fields": {
+        "bloodAttackPower": 27,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000372,
+      "name": "Ascension blood_communion 5",
+      "fields": {
+        "bloodAttackPower": 38,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000376,
+      "name": "Ascension winterwake 1",
+      "fields": {
+        "freezeAttackPower": 8,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000377,
+      "name": "Ascension winterwake 2",
+      "fields": {
+        "freezeAttackPower": 13,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000378,
+      "name": "Ascension winterwake 3",
+      "fields": {
+        "freezeAttackPower": 19,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000379,
+      "name": "Ascension winterwake 4",
+      "fields": {
+        "freezeAttackPower": 27,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000380,
+      "name": "Ascension winterwake 5",
+      "fields": {
+        "freezeAttackPower": 38,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000384,
+      "name": "Ascension miasma_craft 1",
+      "fields": {
+        "poizonAttackPower": 6,
+        "diseaseAttackPower": 3,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000385,
+      "name": "Ascension miasma_craft 2",
+      "fields": {
+        "poizonAttackPower": 10,
+        "diseaseAttackPower": 5,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000386,
+      "name": "Ascension miasma_craft 3",
+      "fields": {
+        "poizonAttackPower": 15,
+        "diseaseAttackPower": 8,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000387,
+      "name": "Ascension miasma_craft 4",
+      "fields": {
+        "poizonAttackPower": 21,
+        "diseaseAttackPower": 12,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000388,
+      "name": "Ascension miasma_craft 5",
+      "fields": {
+        "poizonAttackPower": 29,
+        "diseaseAttackPower": 17,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000392,
+      "name": "Ascension dreaming_touch 1",
+      "fields": {
+        "sleepAttackPower": 4,
+        "madnessAttackPower": 4,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000393,
+      "name": "Ascension dreaming_touch 2",
+      "fields": {
+        "sleepAttackPower": 7,
+        "madnessAttackPower": 7,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000394,
+      "name": "Ascension dreaming_touch 3",
+      "fields": {
+        "sleepAttackPower": 11,
+        "madnessAttackPower": 11,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000395,
+      "name": "Ascension dreaming_touch 4",
+      "fields": {
+        "sleepAttackPower": 16,
+        "madnessAttackPower": 16,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000396,
+      "name": "Ascension dreaming_touch 5",
+      "fields": {
+        "sleepAttackPower": 23,
+        "madnessAttackPower": 23,
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95000400,
+      "name": "Ascension Merciful Reversal native blessing carrier 1",
+      "fields": {
+        "stateInfo": 483,
+        "spCategory": 0,
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0
+      },
+      "template_id": 20382300
+    },
+    {
+      "id": 95000401,
+      "name": "Ascension Merciful Reversal native blessing carrier 2",
+      "fields": {
+        "stateInfo": 483,
+        "spCategory": 0,
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0
+      },
+      "template_id": 20382300
+    },
+    {
+      "id": 95000402,
+      "name": "Ascension Merciful Reversal native blessing carrier 3",
+      "fields": {
+        "stateInfo": 483,
+        "spCategory": 0,
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0
+      },
+      "template_id": 20382300
+    },
+    {
+      "id": 95000403,
+      "name": "Ascension Merciful Reversal native blessing carrier 4",
+      "fields": {
+        "stateInfo": 483,
+        "spCategory": 0,
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0
+      },
+      "template_id": 20382300
+    },
+    {
+      "id": 95000404,
+      "name": "Ascension Merciful Reversal native blessing carrier 5",
+      "fields": {
+        "stateInfo": 483,
+        "spCategory": 0,
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0
+      },
+      "template_id": 20382300
+    },
+    {
+      "id": 95000408,
+      "name": "Ascension Momentum accumulator-9 watcher 1",
+      "fields": {
+        "stateInfo": 311,
+        "spCategory": 0,
+        "effectEndurance": -1,
+        "motionInterval": 0.8,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": -1,
+        "accumuOverVal": 17,
+        "accumuOverFireId": 95005408,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0,
+        "effectTargetAttacker": 0
+      },
+      "template_id": 350400
+    },
+    {
+      "id": 95000409,
+      "name": "Ascension Momentum accumulator-9 watcher 2",
+      "fields": {
+        "stateInfo": 311,
+        "spCategory": 0,
+        "effectEndurance": -1,
+        "motionInterval": 0.8,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": -1,
+        "accumuOverVal": 17,
+        "accumuOverFireId": 95005409,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0,
+        "effectTargetAttacker": 0
+      },
+      "template_id": 350400
+    },
+    {
+      "id": 95000410,
+      "name": "Ascension Momentum accumulator-9 watcher 3",
+      "fields": {
+        "stateInfo": 311,
+        "spCategory": 0,
+        "effectEndurance": -1,
+        "motionInterval": 0.8,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": -1,
+        "accumuOverVal": 17,
+        "accumuOverFireId": 95005410,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0,
+        "effectTargetAttacker": 0
+      },
+      "template_id": 350400
+    },
+    {
+      "id": 95000411,
+      "name": "Ascension Momentum accumulator-9 watcher 4",
+      "fields": {
+        "stateInfo": 311,
+        "spCategory": 0,
+        "effectEndurance": -1,
+        "motionInterval": 0.8,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": -1,
+        "accumuOverVal": 17,
+        "accumuOverFireId": 95005411,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0,
+        "effectTargetAttacker": 0
+      },
+      "template_id": 350400
+    },
+    {
+      "id": 95000412,
+      "name": "Ascension Momentum accumulator-9 watcher 5",
+      "fields": {
+        "stateInfo": 311,
+        "spCategory": 0,
+        "effectEndurance": -1,
+        "motionInterval": 0.8,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": -1,
+        "accumuOverVal": 17,
+        "accumuOverFireId": 95005412,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0,
+        "effectTargetAttacker": 0
+      },
+      "template_id": 350400
+    },
+    {
+      "id": 95000416,
+      "name": "Ascension Chorus nearby Blood watcher 1",
+      "fields": {
+        "stateInfo": 0,
+        "spCategory": 0,
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": 95010416,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 379,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0
+      },
+      "template_id": 321600
+    },
+    {
+      "id": 95000417,
+      "name": "Ascension Chorus nearby Blood watcher 2",
+      "fields": {
+        "stateInfo": 0,
+        "spCategory": 0,
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": 95010417,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 379,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0
+      },
+      "template_id": 321600
+    },
+    {
+      "id": 95000418,
+      "name": "Ascension Chorus nearby Blood watcher 3",
+      "fields": {
+        "stateInfo": 0,
+        "spCategory": 0,
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": 95010418,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 379,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0
+      },
+      "template_id": 321600
+    },
+    {
+      "id": 95000419,
+      "name": "Ascension Chorus nearby Blood watcher 4",
+      "fields": {
+        "stateInfo": 0,
+        "spCategory": 0,
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": 95010419,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 379,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0
+      },
+      "template_id": 321600
+    },
+    {
+      "id": 95000420,
+      "name": "Ascension Chorus nearby Blood watcher 5",
+      "fields": {
+        "stateInfo": 0,
+        "spCategory": 0,
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": 95010420,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 379,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0
+      },
+      "template_id": 321600
+    },
+    {
+      "id": 95000424,
+      "name": "Ascension Rune Echo native kill carrier 1",
+      "fields": {
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "stateInfo": 199,
+        "spCategory": 0,
+        "applyIdOnGetSoul": 95005424,
+        "soulRate": 1,
+        "atkOccurrenceSpEffectId": -1,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0
+      },
+      "template_id": 350300
+    },
+    {
+      "id": 95000425,
+      "name": "Ascension Rune Echo native kill carrier 2",
+      "fields": {
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "stateInfo": 199,
+        "spCategory": 0,
+        "applyIdOnGetSoul": 95005425,
+        "soulRate": 1,
+        "atkOccurrenceSpEffectId": -1,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0
+      },
+      "template_id": 350300
+    },
+    {
+      "id": 95000426,
+      "name": "Ascension Rune Echo native kill carrier 3",
+      "fields": {
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "stateInfo": 199,
+        "spCategory": 0,
+        "applyIdOnGetSoul": 95005426,
+        "soulRate": 1,
+        "atkOccurrenceSpEffectId": -1,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0
+      },
+      "template_id": 350300
+    },
+    {
+      "id": 95000427,
+      "name": "Ascension Rune Echo native kill carrier 4",
+      "fields": {
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "stateInfo": 199,
+        "spCategory": 0,
+        "applyIdOnGetSoul": 95005427,
+        "soulRate": 1,
+        "atkOccurrenceSpEffectId": -1,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0
+      },
+      "template_id": 350300
+    },
+    {
+      "id": 95000428,
+      "name": "Ascension Rune Echo native kill carrier 5",
+      "fields": {
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "stateInfo": 199,
+        "spCategory": 0,
+        "applyIdOnGetSoul": 95005428,
+        "soulRate": 1,
+        "atkOccurrenceSpEffectId": -1,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0
+      },
+      "template_id": 350300
+    },
+    {
+      "id": 95010000,
+      "name": "Ascension attribute 0",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95010001,
+      "name": "Ascension attribute 1",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95010002,
+      "name": "Ascension attribute 2",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95010003,
+      "name": "Ascension attribute 3",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95010004,
+      "name": "Ascension attribute 4",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95010005,
+      "name": "Ascension attribute 5",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95010006,
+      "name": "Ascension attribute 6",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95010007,
+      "name": "Ascension attribute 7",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95020000,
+      "name": "Ascension runtime aggregate 0",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95020001,
+      "name": "Ascension runtime aggregate 1",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95020002,
+      "name": "Ascension runtime aggregate 2",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95020003,
+      "name": "Ascension runtime aggregate 3",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95020004,
+      "name": "Ascension runtime aggregate 4",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95020005,
+      "name": "Ascension runtime aggregate 5",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95020006,
+      "name": "Ascension runtime aggregate 6",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95020007,
+      "name": "Ascension runtime aggregate 7",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95020008,
+      "name": "Ascension runtime aggregate 8",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95020009,
+      "name": "Ascension runtime aggregate 9",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95020010,
+      "name": "Ascension runtime aggregate 10",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95020011,
+      "name": "Ascension runtime aggregate 11",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95020012,
+      "name": "Ascension runtime aggregate 12",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95020013,
+      "name": "Ascension runtime aggregate 13",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95020014,
+      "name": "Ascension runtime aggregate 14",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95020015,
+      "name": "Ascension runtime aggregate 15",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95030000,
+      "name": "Ascension boss ascension",
+      "fields": {
+        "maxHpRate": 2.0,
+        "physicsAttackRate": 1.225,
+        "magicAttackRate": 1.225,
+        "fireAttackRate": 1.225,
+        "thunderAttackRate": 1.225,
+        "darkAttackRate": 1.225,
+        "effectTargetEnemy": 1,
+        "effectTargetPlayer": 0,
+        "effectTargetAI": 1,
+        "bCurrHPIndependeMaxHP": 0
+      }
+    },
+    {
+      "id": 95041000,
+      "name": "Ascension status payload blood_loss",
+      "template_id": 3191,
+      "fields": {
+        "bloodAttackPower": 0,
+        "iconId": -1,
+        "wepParamChange": 3,
+        "effectTargetSelfTarget": 0,
+        "effectTargetFriendlyTarget": 0,
+        "effectTargetOpposeTarget": 1,
+        "effectTargetEnemy": 1,
+        "effectTargetPlayer": 1,
+        "effectTargetAI": 1,
+        "isUseStatusAilmentAtkPowerCorrect": 1
+      }
+    },
+    {
+      "id": 95040000,
+      "name": "Ascension status carrier blood_loss right",
+      "template_id": 3190,
+      "fields": {
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "stateInfo": 152,
+        "spCategory": 0,
+        "spAttribute": 22,
+        "wepParamChange": 1,
+        "atkOccurrenceSpEffectId": 95041000,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "effectTargetSelfTarget": 1,
+        "effectTargetOpposeTarget": 1,
+        "effectTargetFriendlyTarget": 1,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0,
+        "changeHpPoint": 0,
+        "changeHpRate": 0,
+        "changeMpPoint": 0,
+        "changeMpRate": 0,
+        "changeStaminaPoint": 0,
+        "changeStaminaRate": 0,
+        "bloodAttackPower": 0,
+        "freezeAttackPower": 0,
+        "poizonAttackPower": 0,
+        "diseaseAttackPower": 0,
+        "sleepAttackPower": 0,
+        "madnessAttackPower": 0,
+        "curseAttackPower": 0,
+        "physicsAttackPower": 0,
+        "physicsAttackRate": 1,
+        "physicsAttackPowerRate": 1,
+        "magicAttackPower": 0,
+        "magicAttackRate": 1,
+        "magicAttackPowerRate": 1,
+        "fireAttackPower": 0,
+        "fireAttackRate": 1,
+        "fireAttackPowerRate": 1,
+        "thunderAttackPower": 0,
+        "thunderAttackRate": 1,
+        "thunderAttackPowerRate": 1,
+        "darkAttackPower": 0,
+        "darkAttackRate": 1,
+        "darkAttackPowerRate": 1
+      }
+    },
+    {
+      "id": 95040001,
+      "name": "Ascension status carrier blood_loss left",
+      "template_id": 3194,
+      "fields": {
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "stateInfo": 152,
+        "spCategory": 0,
+        "spAttribute": 22,
+        "wepParamChange": 2,
+        "atkOccurrenceSpEffectId": 95041000,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "effectTargetSelfTarget": 1,
+        "effectTargetOpposeTarget": 1,
+        "effectTargetFriendlyTarget": 1,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0,
+        "changeHpPoint": 0,
+        "changeHpRate": 0,
+        "changeMpPoint": 0,
+        "changeMpRate": 0,
+        "changeStaminaPoint": 0,
+        "changeStaminaRate": 0,
+        "bloodAttackPower": 0,
+        "freezeAttackPower": 0,
+        "poizonAttackPower": 0,
+        "diseaseAttackPower": 0,
+        "sleepAttackPower": 0,
+        "madnessAttackPower": 0,
+        "curseAttackPower": 0,
+        "physicsAttackPower": 0,
+        "physicsAttackRate": 1,
+        "physicsAttackPowerRate": 1,
+        "magicAttackPower": 0,
+        "magicAttackRate": 1,
+        "magicAttackPowerRate": 1,
+        "fireAttackPower": 0,
+        "fireAttackRate": 1,
+        "fireAttackPowerRate": 1,
+        "thunderAttackPower": 0,
+        "thunderAttackRate": 1,
+        "thunderAttackPowerRate": 1,
+        "darkAttackPower": 0,
+        "darkAttackRate": 1,
+        "darkAttackPowerRate": 1
+      }
+    },
+    {
+      "id": 95041001,
+      "name": "Ascension status payload frostbite",
+      "template_id": 3141,
+      "fields": {
+        "freezeAttackPower": 0,
+        "iconId": -1,
+        "wepParamChange": 3,
+        "effectTargetSelfTarget": 0,
+        "effectTargetFriendlyTarget": 0,
+        "effectTargetOpposeTarget": 1,
+        "effectTargetEnemy": 1,
+        "effectTargetPlayer": 1,
+        "effectTargetAI": 1,
+        "isUseStatusAilmentAtkPowerCorrect": 1
+      }
+    },
+    {
+      "id": 95040002,
+      "name": "Ascension status carrier frostbite right",
+      "template_id": 3140,
+      "fields": {
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "stateInfo": 152,
+        "spCategory": 0,
+        "spAttribute": 23,
+        "wepParamChange": 1,
+        "atkOccurrenceSpEffectId": 95041001,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "effectTargetSelfTarget": 1,
+        "effectTargetOpposeTarget": 1,
+        "effectTargetFriendlyTarget": 1,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0,
+        "changeHpPoint": 0,
+        "changeHpRate": 0,
+        "changeMpPoint": 0,
+        "changeMpRate": 0,
+        "changeStaminaPoint": 0,
+        "changeStaminaRate": 0,
+        "bloodAttackPower": 0,
+        "freezeAttackPower": 0,
+        "poizonAttackPower": 0,
+        "diseaseAttackPower": 0,
+        "sleepAttackPower": 0,
+        "madnessAttackPower": 0,
+        "curseAttackPower": 0,
+        "physicsAttackPower": 0,
+        "physicsAttackRate": 1,
+        "physicsAttackPowerRate": 1,
+        "magicAttackPower": 0,
+        "magicAttackRate": 1,
+        "magicAttackPowerRate": 1,
+        "fireAttackPower": 0,
+        "fireAttackRate": 1,
+        "fireAttackPowerRate": 1,
+        "thunderAttackPower": 0,
+        "thunderAttackRate": 1,
+        "thunderAttackPowerRate": 1,
+        "darkAttackPower": 0,
+        "darkAttackRate": 1,
+        "darkAttackPowerRate": 1
+      }
+    },
+    {
+      "id": 95040003,
+      "name": "Ascension status carrier frostbite left",
+      "template_id": 3144,
+      "fields": {
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "stateInfo": 152,
+        "spCategory": 0,
+        "spAttribute": 23,
+        "wepParamChange": 2,
+        "atkOccurrenceSpEffectId": 95041001,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "effectTargetSelfTarget": 1,
+        "effectTargetOpposeTarget": 1,
+        "effectTargetFriendlyTarget": 1,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0,
+        "changeHpPoint": 0,
+        "changeHpRate": 0,
+        "changeMpPoint": 0,
+        "changeMpRate": 0,
+        "changeStaminaPoint": 0,
+        "changeStaminaRate": 0,
+        "bloodAttackPower": 0,
+        "freezeAttackPower": 0,
+        "poizonAttackPower": 0,
+        "diseaseAttackPower": 0,
+        "sleepAttackPower": 0,
+        "madnessAttackPower": 0,
+        "curseAttackPower": 0,
+        "physicsAttackPower": 0,
+        "physicsAttackRate": 1,
+        "physicsAttackPowerRate": 1,
+        "magicAttackPower": 0,
+        "magicAttackRate": 1,
+        "magicAttackPowerRate": 1,
+        "fireAttackPower": 0,
+        "fireAttackRate": 1,
+        "fireAttackPowerRate": 1,
+        "thunderAttackPower": 0,
+        "thunderAttackRate": 1,
+        "thunderAttackPowerRate": 1,
+        "darkAttackPower": 0,
+        "darkAttackRate": 1,
+        "darkAttackPowerRate": 1
+      }
+    },
+    {
+      "id": 95041002,
+      "name": "Ascension status payload poison",
+      "template_id": 3176,
+      "fields": {
+        "poizonAttackPower": 0,
+        "iconId": -1,
+        "wepParamChange": 3,
+        "effectTargetSelfTarget": 0,
+        "effectTargetFriendlyTarget": 0,
+        "effectTargetOpposeTarget": 1,
+        "effectTargetEnemy": 1,
+        "effectTargetPlayer": 1,
+        "effectTargetAI": 1,
+        "isUseStatusAilmentAtkPowerCorrect": 1
+      }
+    },
+    {
+      "id": 95040004,
+      "name": "Ascension status carrier poison right",
+      "template_id": 3175,
+      "fields": {
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "stateInfo": 152,
+        "spCategory": 0,
+        "spAttribute": 20,
+        "wepParamChange": 1,
+        "atkOccurrenceSpEffectId": 95041002,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "effectTargetSelfTarget": 1,
+        "effectTargetOpposeTarget": 1,
+        "effectTargetFriendlyTarget": 1,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0,
+        "changeHpPoint": 0,
+        "changeHpRate": 0,
+        "changeMpPoint": 0,
+        "changeMpRate": 0,
+        "changeStaminaPoint": 0,
+        "changeStaminaRate": 0,
+        "bloodAttackPower": 0,
+        "freezeAttackPower": 0,
+        "poizonAttackPower": 0,
+        "diseaseAttackPower": 0,
+        "sleepAttackPower": 0,
+        "madnessAttackPower": 0,
+        "curseAttackPower": 0,
+        "physicsAttackPower": 0,
+        "physicsAttackRate": 1,
+        "physicsAttackPowerRate": 1,
+        "magicAttackPower": 0,
+        "magicAttackRate": 1,
+        "magicAttackPowerRate": 1,
+        "fireAttackPower": 0,
+        "fireAttackRate": 1,
+        "fireAttackPowerRate": 1,
+        "thunderAttackPower": 0,
+        "thunderAttackRate": 1,
+        "thunderAttackPowerRate": 1,
+        "darkAttackPower": 0,
+        "darkAttackRate": 1,
+        "darkAttackPowerRate": 1
+      }
+    },
+    {
+      "id": 95040005,
+      "name": "Ascension status carrier poison left",
+      "template_id": 3179,
+      "fields": {
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "stateInfo": 152,
+        "spCategory": 0,
+        "spAttribute": 20,
+        "wepParamChange": 2,
+        "atkOccurrenceSpEffectId": 95041002,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "effectTargetSelfTarget": 1,
+        "effectTargetOpposeTarget": 1,
+        "effectTargetFriendlyTarget": 1,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0,
+        "changeHpPoint": 0,
+        "changeHpRate": 0,
+        "changeMpPoint": 0,
+        "changeMpRate": 0,
+        "changeStaminaPoint": 0,
+        "changeStaminaRate": 0,
+        "bloodAttackPower": 0,
+        "freezeAttackPower": 0,
+        "poizonAttackPower": 0,
+        "diseaseAttackPower": 0,
+        "sleepAttackPower": 0,
+        "madnessAttackPower": 0,
+        "curseAttackPower": 0,
+        "physicsAttackPower": 0,
+        "physicsAttackRate": 1,
+        "physicsAttackPowerRate": 1,
+        "magicAttackPower": 0,
+        "magicAttackRate": 1,
+        "magicAttackPowerRate": 1,
+        "fireAttackPower": 0,
+        "fireAttackRate": 1,
+        "fireAttackPowerRate": 1,
+        "thunderAttackPower": 0,
+        "thunderAttackRate": 1,
+        "thunderAttackPowerRate": 1,
+        "darkAttackPower": 0,
+        "darkAttackRate": 1,
+        "darkAttackPowerRate": 1
+      }
+    },
+    {
+      "id": 95041003,
+      "name": "Ascension status payload scarlet_rot",
+      "template_id": 3311,
+      "fields": {
+        "diseaseAttackPower": 0,
+        "iconId": -1,
+        "wepParamChange": 3,
+        "effectTargetSelfTarget": 0,
+        "effectTargetFriendlyTarget": 0,
+        "effectTargetOpposeTarget": 1,
+        "effectTargetEnemy": 1,
+        "effectTargetPlayer": 1,
+        "effectTargetAI": 1,
+        "isUseStatusAilmentAtkPowerCorrect": 1
+      }
+    },
+    {
+      "id": 95040006,
+      "name": "Ascension status carrier scarlet_rot right",
+      "template_id": 3310,
+      "fields": {
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "stateInfo": 152,
+        "spCategory": 0,
+        "spAttribute": 21,
+        "wepParamChange": 1,
+        "atkOccurrenceSpEffectId": 95041003,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "effectTargetSelfTarget": 1,
+        "effectTargetOpposeTarget": 1,
+        "effectTargetFriendlyTarget": 1,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0,
+        "changeHpPoint": 0,
+        "changeHpRate": 0,
+        "changeMpPoint": 0,
+        "changeMpRate": 0,
+        "changeStaminaPoint": 0,
+        "changeStaminaRate": 0,
+        "bloodAttackPower": 0,
+        "freezeAttackPower": 0,
+        "poizonAttackPower": 0,
+        "diseaseAttackPower": 0,
+        "sleepAttackPower": 0,
+        "madnessAttackPower": 0,
+        "curseAttackPower": 0,
+        "physicsAttackPower": 0,
+        "physicsAttackRate": 1,
+        "physicsAttackPowerRate": 1,
+        "magicAttackPower": 0,
+        "magicAttackRate": 1,
+        "magicAttackPowerRate": 1,
+        "fireAttackPower": 0,
+        "fireAttackRate": 1,
+        "fireAttackPowerRate": 1,
+        "thunderAttackPower": 0,
+        "thunderAttackRate": 1,
+        "thunderAttackPowerRate": 1,
+        "darkAttackPower": 0,
+        "darkAttackRate": 1,
+        "darkAttackPowerRate": 1
+      }
+    },
+    {
+      "id": 95040007,
+      "name": "Ascension status carrier scarlet_rot left",
+      "template_id": 3314,
+      "fields": {
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "stateInfo": 152,
+        "spCategory": 0,
+        "spAttribute": 21,
+        "wepParamChange": 2,
+        "atkOccurrenceSpEffectId": 95041003,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "effectTargetSelfTarget": 1,
+        "effectTargetOpposeTarget": 1,
+        "effectTargetFriendlyTarget": 1,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0,
+        "changeHpPoint": 0,
+        "changeHpRate": 0,
+        "changeMpPoint": 0,
+        "changeMpRate": 0,
+        "changeStaminaPoint": 0,
+        "changeStaminaRate": 0,
+        "bloodAttackPower": 0,
+        "freezeAttackPower": 0,
+        "poizonAttackPower": 0,
+        "diseaseAttackPower": 0,
+        "sleepAttackPower": 0,
+        "madnessAttackPower": 0,
+        "curseAttackPower": 0,
+        "physicsAttackPower": 0,
+        "physicsAttackRate": 1,
+        "physicsAttackPowerRate": 1,
+        "magicAttackPower": 0,
+        "magicAttackRate": 1,
+        "magicAttackPowerRate": 1,
+        "fireAttackPower": 0,
+        "fireAttackRate": 1,
+        "fireAttackPowerRate": 1,
+        "thunderAttackPower": 0,
+        "thunderAttackRate": 1,
+        "thunderAttackPowerRate": 1,
+        "darkAttackPower": 0,
+        "darkAttackRate": 1,
+        "darkAttackPowerRate": 1
+      }
+    },
+    {
+      "id": 95041004,
+      "name": "Ascension status payload sleep",
+      "template_id": 3151,
+      "fields": {
+        "sleepAttackPower": 0,
+        "iconId": -1,
+        "wepParamChange": 3,
+        "effectTargetSelfTarget": 0,
+        "effectTargetFriendlyTarget": 0,
+        "effectTargetOpposeTarget": 1,
+        "effectTargetEnemy": 1,
+        "effectTargetPlayer": 1,
+        "effectTargetAI": 1,
+        "isUseStatusAilmentAtkPowerCorrect": 1
+      }
+    },
+    {
+      "id": 95040008,
+      "name": "Ascension status carrier sleep right",
+      "template_id": 3150,
+      "fields": {
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "stateInfo": 152,
+        "spCategory": 0,
+        "spAttribute": 24,
+        "wepParamChange": 1,
+        "atkOccurrenceSpEffectId": 95041004,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "effectTargetSelfTarget": 1,
+        "effectTargetOpposeTarget": 1,
+        "effectTargetFriendlyTarget": 1,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0,
+        "changeHpPoint": 0,
+        "changeHpRate": 0,
+        "changeMpPoint": 0,
+        "changeMpRate": 0,
+        "changeStaminaPoint": 0,
+        "changeStaminaRate": 0,
+        "bloodAttackPower": 0,
+        "freezeAttackPower": 0,
+        "poizonAttackPower": 0,
+        "diseaseAttackPower": 0,
+        "sleepAttackPower": 0,
+        "madnessAttackPower": 0,
+        "curseAttackPower": 0,
+        "physicsAttackPower": 0,
+        "physicsAttackRate": 1,
+        "physicsAttackPowerRate": 1,
+        "magicAttackPower": 0,
+        "magicAttackRate": 1,
+        "magicAttackPowerRate": 1,
+        "fireAttackPower": 0,
+        "fireAttackRate": 1,
+        "fireAttackPowerRate": 1,
+        "thunderAttackPower": 0,
+        "thunderAttackRate": 1,
+        "thunderAttackPowerRate": 1,
+        "darkAttackPower": 0,
+        "darkAttackRate": 1,
+        "darkAttackPowerRate": 1
+      }
+    },
+    {
+      "id": 95040009,
+      "name": "Ascension status carrier sleep left",
+      "template_id": 3154,
+      "fields": {
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "stateInfo": 152,
+        "spCategory": 0,
+        "spAttribute": 24,
+        "wepParamChange": 2,
+        "atkOccurrenceSpEffectId": 95041004,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "effectTargetSelfTarget": 1,
+        "effectTargetOpposeTarget": 1,
+        "effectTargetFriendlyTarget": 1,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0,
+        "changeHpPoint": 0,
+        "changeHpRate": 0,
+        "changeMpPoint": 0,
+        "changeMpRate": 0,
+        "changeStaminaPoint": 0,
+        "changeStaminaRate": 0,
+        "bloodAttackPower": 0,
+        "freezeAttackPower": 0,
+        "poizonAttackPower": 0,
+        "diseaseAttackPower": 0,
+        "sleepAttackPower": 0,
+        "madnessAttackPower": 0,
+        "curseAttackPower": 0,
+        "physicsAttackPower": 0,
+        "physicsAttackRate": 1,
+        "physicsAttackPowerRate": 1,
+        "magicAttackPower": 0,
+        "magicAttackRate": 1,
+        "magicAttackPowerRate": 1,
+        "fireAttackPower": 0,
+        "fireAttackRate": 1,
+        "fireAttackPowerRate": 1,
+        "thunderAttackPower": 0,
+        "thunderAttackRate": 1,
+        "thunderAttackPowerRate": 1,
+        "darkAttackPower": 0,
+        "darkAttackRate": 1,
+        "darkAttackPowerRate": 1
+      }
+    },
+    {
+      "id": 95041005,
+      "name": "Ascension status payload madness",
+      "template_id": 1731000,
+      "fields": {
+        "madnessAttackPower": 0,
+        "iconId": -1,
+        "wepParamChange": 3,
+        "effectTargetSelfTarget": 0,
+        "effectTargetFriendlyTarget": 0,
+        "effectTargetOpposeTarget": 1,
+        "effectTargetEnemy": 1,
+        "effectTargetPlayer": 1,
+        "effectTargetAI": 1,
+        "isUseStatusAilmentAtkPowerCorrect": 1
+      }
+    },
+    {
+      "id": 95040010,
+      "name": "Ascension status carrier madness right",
+      "template_id": 1938,
+      "fields": {
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "stateInfo": 152,
+        "spCategory": 0,
+        "spAttribute": 25,
+        "wepParamChange": 1,
+        "atkOccurrenceSpEffectId": 95041005,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "effectTargetSelfTarget": 1,
+        "effectTargetOpposeTarget": 1,
+        "effectTargetFriendlyTarget": 1,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0,
+        "changeHpPoint": 0,
+        "changeHpRate": 0,
+        "changeMpPoint": 0,
+        "changeMpRate": 0,
+        "changeStaminaPoint": 0,
+        "changeStaminaRate": 0,
+        "bloodAttackPower": 0,
+        "freezeAttackPower": 0,
+        "poizonAttackPower": 0,
+        "diseaseAttackPower": 0,
+        "sleepAttackPower": 0,
+        "madnessAttackPower": 0,
+        "curseAttackPower": 0,
+        "physicsAttackPower": 0,
+        "physicsAttackRate": 1,
+        "physicsAttackPowerRate": 1,
+        "magicAttackPower": 0,
+        "magicAttackRate": 1,
+        "magicAttackPowerRate": 1,
+        "fireAttackPower": 0,
+        "fireAttackRate": 1,
+        "fireAttackPowerRate": 1,
+        "thunderAttackPower": 0,
+        "thunderAttackRate": 1,
+        "thunderAttackPowerRate": 1,
+        "darkAttackPower": 0,
+        "darkAttackRate": 1,
+        "darkAttackPowerRate": 1
+      }
+    },
+    {
+      "id": 95040011,
+      "name": "Ascension status carrier madness left",
+      "template_id": 1938,
+      "fields": {
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "stateInfo": 152,
+        "spCategory": 0,
+        "spAttribute": 25,
+        "wepParamChange": 2,
+        "atkOccurrenceSpEffectId": 95041005,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "effectTargetSelfTarget": 1,
+        "effectTargetOpposeTarget": 1,
+        "effectTargetFriendlyTarget": 1,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0,
+        "changeHpPoint": 0,
+        "changeHpRate": 0,
+        "changeMpPoint": 0,
+        "changeMpRate": 0,
+        "changeStaminaPoint": 0,
+        "changeStaminaRate": 0,
+        "bloodAttackPower": 0,
+        "freezeAttackPower": 0,
+        "poizonAttackPower": 0,
+        "diseaseAttackPower": 0,
+        "sleepAttackPower": 0,
+        "madnessAttackPower": 0,
+        "curseAttackPower": 0,
+        "physicsAttackPower": 0,
+        "physicsAttackRate": 1,
+        "physicsAttackPowerRate": 1,
+        "magicAttackPower": 0,
+        "magicAttackRate": 1,
+        "magicAttackPowerRate": 1,
+        "fireAttackPower": 0,
+        "fireAttackRate": 1,
+        "fireAttackPowerRate": 1,
+        "thunderAttackPower": 0,
+        "thunderAttackRate": 1,
+        "thunderAttackPowerRate": 1,
+        "darkAttackPower": 0,
+        "darkAttackRate": 1,
+        "darkAttackPowerRate": 1
+      }
+    },
+    {
+      "id": 95041006,
+      "name": "Ascension status payload death_blight",
+      "template_id": 1794,
+      "fields": {
+        "curseAttackPower": 0,
+        "iconId": -1,
+        "wepParamChange": 3,
+        "effectTargetSelfTarget": 0,
+        "effectTargetFriendlyTarget": 0,
+        "effectTargetOpposeTarget": 1,
+        "effectTargetEnemy": 1,
+        "effectTargetPlayer": 1,
+        "effectTargetAI": 1,
+        "isUseStatusAilmentAtkPowerCorrect": 1
+      }
+    },
+    {
+      "id": 95040012,
+      "name": "Ascension status carrier death_blight right",
+      "template_id": 1791,
+      "fields": {
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "stateInfo": 152,
+        "spCategory": 0,
+        "spAttribute": 26,
+        "wepParamChange": 1,
+        "atkOccurrenceSpEffectId": 95041006,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "effectTargetSelfTarget": 1,
+        "effectTargetOpposeTarget": 1,
+        "effectTargetFriendlyTarget": 1,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0,
+        "changeHpPoint": 0,
+        "changeHpRate": 0,
+        "changeMpPoint": 0,
+        "changeMpRate": 0,
+        "changeStaminaPoint": 0,
+        "changeStaminaRate": 0,
+        "bloodAttackPower": 0,
+        "freezeAttackPower": 0,
+        "poizonAttackPower": 0,
+        "diseaseAttackPower": 0,
+        "sleepAttackPower": 0,
+        "madnessAttackPower": 0,
+        "curseAttackPower": 0,
+        "physicsAttackPower": 0,
+        "physicsAttackRate": 1,
+        "physicsAttackPowerRate": 1,
+        "magicAttackPower": 0,
+        "magicAttackRate": 1,
+        "magicAttackPowerRate": 1,
+        "fireAttackPower": 0,
+        "fireAttackRate": 1,
+        "fireAttackPowerRate": 1,
+        "thunderAttackPower": 0,
+        "thunderAttackRate": 1,
+        "thunderAttackPowerRate": 1,
+        "darkAttackPower": 0,
+        "darkAttackRate": 1,
+        "darkAttackPowerRate": 1
+      }
+    },
+    {
+      "id": 95040013,
+      "name": "Ascension status carrier death_blight left",
+      "template_id": 1793,
+      "fields": {
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "stateInfo": 152,
+        "spCategory": 0,
+        "spAttribute": 26,
+        "wepParamChange": 2,
+        "atkOccurrenceSpEffectId": 95041006,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "effectTargetSelfTarget": 1,
+        "effectTargetOpposeTarget": 1,
+        "effectTargetFriendlyTarget": 1,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0,
+        "changeHpPoint": 0,
+        "changeHpRate": 0,
+        "changeMpPoint": 0,
+        "changeMpRate": 0,
+        "changeStaminaPoint": 0,
+        "changeStaminaRate": 0,
+        "bloodAttackPower": 0,
+        "freezeAttackPower": 0,
+        "poizonAttackPower": 0,
+        "diseaseAttackPower": 0,
+        "sleepAttackPower": 0,
+        "madnessAttackPower": 0,
+        "curseAttackPower": 0,
+        "physicsAttackPower": 0,
+        "physicsAttackRate": 1,
+        "physicsAttackPowerRate": 1,
+        "magicAttackPower": 0,
+        "magicAttackRate": 1,
+        "magicAttackPowerRate": 1,
+        "fireAttackPower": 0,
+        "fireAttackRate": 1,
+        "fireAttackPowerRate": 1,
+        "thunderAttackPower": 0,
+        "thunderAttackRate": 1,
+        "thunderAttackPowerRate": 1,
+        "darkAttackPower": 0,
+        "darkAttackRate": 1,
+        "darkAttackPowerRate": 1
+      }
+    },
+    {
+      "id": 95005424,
+      "name": "Ascension Rune Echo finite rune buff 1",
+      "template_id": 311100,
+      "fields": {
+        "effectEndurance": 8.0,
+        "motionInterval": 0,
+        "stateInfo": 76,
+        "spCategory": 0,
+        "saveCategory": -1,
+        "soulRate": 1.05,
+        "applyIdOnGetSoul": 0,
+        "atkOccurrenceSpEffectId": -1,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0
+      }
+    },
+    {
+      "id": 95005425,
+      "name": "Ascension Rune Echo finite rune buff 2",
+      "template_id": 311100,
+      "fields": {
+        "effectEndurance": 8.0,
+        "motionInterval": 0,
+        "stateInfo": 76,
+        "spCategory": 0,
+        "saveCategory": -1,
+        "soulRate": 1.09,
+        "applyIdOnGetSoul": 0,
+        "atkOccurrenceSpEffectId": -1,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0
+      }
+    },
+    {
+      "id": 95005426,
+      "name": "Ascension Rune Echo finite rune buff 3",
+      "template_id": 311100,
+      "fields": {
+        "effectEndurance": 8.0,
+        "motionInterval": 0,
+        "stateInfo": 76,
+        "spCategory": 0,
+        "saveCategory": -1,
+        "soulRate": 1.14,
+        "applyIdOnGetSoul": 0,
+        "atkOccurrenceSpEffectId": -1,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0
+      }
+    },
+    {
+      "id": 95005427,
+      "name": "Ascension Rune Echo finite rune buff 4",
+      "template_id": 311100,
+      "fields": {
+        "effectEndurance": 8.0,
+        "motionInterval": 0,
+        "stateInfo": 76,
+        "spCategory": 0,
+        "saveCategory": -1,
+        "soulRate": 1.2,
+        "applyIdOnGetSoul": 0,
+        "atkOccurrenceSpEffectId": -1,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0
+      }
+    },
+    {
+      "id": 95005428,
+      "name": "Ascension Rune Echo finite rune buff 5",
+      "template_id": 311100,
+      "fields": {
+        "effectEndurance": 8.0,
+        "motionInterval": 0,
+        "stateInfo": 76,
+        "spCategory": 0,
+        "saveCategory": -1,
+        "soulRate": 1.28,
+        "applyIdOnGetSoul": 0,
+        "atkOccurrenceSpEffectId": -1,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0
+      }
+    },
+    {
+      "id": 95005408,
+      "name": "Ascension Momentum accumulator-9 reset 1",
+      "fields": {
+        "stateInfo": 311,
+        "spCategory": 0,
+        "effectEndurance": 0,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": 95010408,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": -999,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0,
+        "effectTargetAttacker": 1
+      },
+      "template_id": 20511022
+    },
+    {
+      "id": 95010408,
+      "name": "Ascension Momentum finite stamina buff 1",
+      "fields": {
+        "stateInfo": 0,
+        "spCategory": 0,
+        "effectEndurance": 4,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 5,
+        "consumeStaminaRate": 0.97,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0,
+        "effectTargetAttacker": 1
+      }
+    },
+    {
+      "id": 95005409,
+      "name": "Ascension Momentum accumulator-9 reset 2",
+      "fields": {
+        "stateInfo": 311,
+        "spCategory": 0,
+        "effectEndurance": 0,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": 95010409,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": -999,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0,
+        "effectTargetAttacker": 1
+      },
+      "template_id": 20511022
+    },
+    {
+      "id": 95010409,
+      "name": "Ascension Momentum finite stamina buff 2",
+      "fields": {
+        "stateInfo": 0,
+        "spCategory": 0,
+        "effectEndurance": 4,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 8,
+        "consumeStaminaRate": 0.94,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0,
+        "effectTargetAttacker": 1
+      }
+    },
+    {
+      "id": 95005410,
+      "name": "Ascension Momentum accumulator-9 reset 3",
+      "fields": {
+        "stateInfo": 311,
+        "spCategory": 0,
+        "effectEndurance": 0,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": 95010410,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": -999,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0,
+        "effectTargetAttacker": 1
+      },
+      "template_id": 20511022
+    },
+    {
+      "id": 95010410,
+      "name": "Ascension Momentum finite stamina buff 3",
+      "fields": {
+        "stateInfo": 0,
+        "spCategory": 0,
+        "effectEndurance": 4,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 12,
+        "consumeStaminaRate": 0.9,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0,
+        "effectTargetAttacker": 1
+      }
+    },
+    {
+      "id": 95005411,
+      "name": "Ascension Momentum accumulator-9 reset 4",
+      "fields": {
+        "stateInfo": 311,
+        "spCategory": 0,
+        "effectEndurance": 0,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": 95010411,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": -999,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0,
+        "effectTargetAttacker": 1
+      },
+      "template_id": 20511022
+    },
+    {
+      "id": 95010411,
+      "name": "Ascension Momentum finite stamina buff 4",
+      "fields": {
+        "stateInfo": 0,
+        "spCategory": 0,
+        "effectEndurance": 4,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 17,
+        "consumeStaminaRate": 0.85,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0,
+        "effectTargetAttacker": 1
+      }
+    },
+    {
+      "id": 95005412,
+      "name": "Ascension Momentum accumulator-9 reset 5",
+      "fields": {
+        "stateInfo": 311,
+        "spCategory": 0,
+        "effectEndurance": 0,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": 95010412,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": -999,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0,
+        "effectTargetAttacker": 1
+      },
+      "template_id": 20511022
+    },
+    {
+      "id": 95010412,
+      "name": "Ascension Momentum finite stamina buff 5",
+      "fields": {
+        "stateInfo": 0,
+        "spCategory": 0,
+        "effectEndurance": 4,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 23,
+        "consumeStaminaRate": 0.79,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0,
+        "effectTargetAttacker": 1
+      }
+    },
+    {
+      "id": 95015408,
+      "name": "Ascension Momentum neutral accumulator-9 initialization",
+      "fields": {
+        "stateInfo": 311,
+        "spCategory": 0,
+        "effectEndurance": 0,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": -999,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0,
+        "effectTargetAttacker": 1
+      },
+      "template_id": 20511022
+    },
+    {
+      "id": 95005416,
+      "name": "Ascension Chorus nearby Poison-Rot watcher 1",
+      "fields": {
+        "stateInfo": 0,
+        "spCategory": 0,
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": 95010416,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 380,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0
+      },
+      "template_id": 321700
+    },
+    {
+      "id": 95010416,
+      "name": "Ascension Chorus finite magic-FP buff 1",
+      "fields": {
+        "stateInfo": 0,
+        "spCategory": 0,
+        "effectEndurance": 6.0,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1.06,
+        "magicConsumptionRate": 0.96,
+        "miracleConsumptionRate": 0.96,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0,
+        "atkPlayerDmgCorrectRate_Physics": 1,
+        "atkPlayerDmgCorrectRate_Magic": 1,
+        "atkPlayerDmgCorrectRate_Fire": 1,
+        "atkPlayerDmgCorrectRate_Thunder": 1,
+        "atkPlayerDmgCorrectRate_Dark": 1,
+        "atkEnemyDmgCorrectRate_Physics": 1,
+        "atkEnemyDmgCorrectRate_Magic": 1,
+        "atkEnemyDmgCorrectRate_Fire": 1,
+        "atkEnemyDmgCorrectRate_Thunder": 1,
+        "atkEnemyDmgCorrectRate_Dark": 1
+      },
+      "template_id": 321601
+    },
+    {
+      "id": 95005417,
+      "name": "Ascension Chorus nearby Poison-Rot watcher 2",
+      "fields": {
+        "stateInfo": 0,
+        "spCategory": 0,
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": 95010417,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 380,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0
+      },
+      "template_id": 321700
+    },
+    {
+      "id": 95010417,
+      "name": "Ascension Chorus finite magic-FP buff 2",
+      "fields": {
+        "stateInfo": 0,
+        "spCategory": 0,
+        "effectEndurance": 6.0,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1.1,
+        "magicConsumptionRate": 0.92,
+        "miracleConsumptionRate": 0.92,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0,
+        "atkPlayerDmgCorrectRate_Physics": 1,
+        "atkPlayerDmgCorrectRate_Magic": 1,
+        "atkPlayerDmgCorrectRate_Fire": 1,
+        "atkPlayerDmgCorrectRate_Thunder": 1,
+        "atkPlayerDmgCorrectRate_Dark": 1,
+        "atkEnemyDmgCorrectRate_Physics": 1,
+        "atkEnemyDmgCorrectRate_Magic": 1,
+        "atkEnemyDmgCorrectRate_Fire": 1,
+        "atkEnemyDmgCorrectRate_Thunder": 1,
+        "atkEnemyDmgCorrectRate_Dark": 1
+      },
+      "template_id": 321601
+    },
+    {
+      "id": 95005418,
+      "name": "Ascension Chorus nearby Poison-Rot watcher 3",
+      "fields": {
+        "stateInfo": 0,
+        "spCategory": 0,
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": 95010418,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 380,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0
+      },
+      "template_id": 321700
+    },
+    {
+      "id": 95010418,
+      "name": "Ascension Chorus finite magic-FP buff 3",
+      "fields": {
+        "stateInfo": 0,
+        "spCategory": 0,
+        "effectEndurance": 6.0,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1.15,
+        "magicConsumptionRate": 0.87,
+        "miracleConsumptionRate": 0.87,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0,
+        "atkPlayerDmgCorrectRate_Physics": 1,
+        "atkPlayerDmgCorrectRate_Magic": 1,
+        "atkPlayerDmgCorrectRate_Fire": 1,
+        "atkPlayerDmgCorrectRate_Thunder": 1,
+        "atkPlayerDmgCorrectRate_Dark": 1,
+        "atkEnemyDmgCorrectRate_Physics": 1,
+        "atkEnemyDmgCorrectRate_Magic": 1,
+        "atkEnemyDmgCorrectRate_Fire": 1,
+        "atkEnemyDmgCorrectRate_Thunder": 1,
+        "atkEnemyDmgCorrectRate_Dark": 1
+      },
+      "template_id": 321601
+    },
+    {
+      "id": 95005419,
+      "name": "Ascension Chorus nearby Poison-Rot watcher 4",
+      "fields": {
+        "stateInfo": 0,
+        "spCategory": 0,
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": 95010419,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 380,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0
+      },
+      "template_id": 321700
+    },
+    {
+      "id": 95010419,
+      "name": "Ascension Chorus finite magic-FP buff 4",
+      "fields": {
+        "stateInfo": 0,
+        "spCategory": 0,
+        "effectEndurance": 6.0,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1.21,
+        "magicConsumptionRate": 0.81,
+        "miracleConsumptionRate": 0.81,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0,
+        "atkPlayerDmgCorrectRate_Physics": 1,
+        "atkPlayerDmgCorrectRate_Magic": 1,
+        "atkPlayerDmgCorrectRate_Fire": 1,
+        "atkPlayerDmgCorrectRate_Thunder": 1,
+        "atkPlayerDmgCorrectRate_Dark": 1,
+        "atkEnemyDmgCorrectRate_Physics": 1,
+        "atkEnemyDmgCorrectRate_Magic": 1,
+        "atkEnemyDmgCorrectRate_Fire": 1,
+        "atkEnemyDmgCorrectRate_Thunder": 1,
+        "atkEnemyDmgCorrectRate_Dark": 1
+      },
+      "template_id": 321601
+    },
+    {
+      "id": 95005420,
+      "name": "Ascension Chorus nearby Poison-Rot watcher 5",
+      "fields": {
+        "stateInfo": 0,
+        "spCategory": 0,
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": 95010420,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 380,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0
+      },
+      "template_id": 321700
+    },
+    {
+      "id": 95010420,
+      "name": "Ascension Chorus finite magic-FP buff 5",
+      "fields": {
+        "stateInfo": 0,
+        "spCategory": 0,
+        "effectEndurance": 6.0,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1,
+        "magicAttackRate": 1.29,
+        "magicConsumptionRate": 0.74,
+        "miracleConsumptionRate": 0.74,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0,
+        "isContractSpEffectLife": 0,
+        "isExtendSpEffectLife": 0,
+        "atkPlayerDmgCorrectRate_Physics": 1,
+        "atkPlayerDmgCorrectRate_Magic": 1,
+        "atkPlayerDmgCorrectRate_Fire": 1,
+        "atkPlayerDmgCorrectRate_Thunder": 1,
+        "atkPlayerDmgCorrectRate_Dark": 1,
+        "atkEnemyDmgCorrectRate_Physics": 1,
+        "atkEnemyDmgCorrectRate_Magic": 1,
+        "atkEnemyDmgCorrectRate_Fire": 1,
+        "atkEnemyDmgCorrectRate_Thunder": 1,
+        "atkEnemyDmgCorrectRate_Dark": 1
+      },
+      "template_id": 321601
+    },
+    {
+      "id": 95005400,
+      "name": "Ascension Merciful Reversal owned posture bonus 1",
+      "fields": {
+        "stateInfo": 0,
+        "spCategory": 0,
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1.1,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0
+      }
+    },
+    {
+      "id": 95005401,
+      "name": "Ascension Merciful Reversal owned posture bonus 2",
+      "fields": {
+        "stateInfo": 0,
+        "spCategory": 0,
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1.16,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0
+      }
+    },
+    {
+      "id": 95005402,
+      "name": "Ascension Merciful Reversal owned posture bonus 3",
+      "fields": {
+        "stateInfo": 0,
+        "spCategory": 0,
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1.23,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0
+      }
+    },
+    {
+      "id": 95005403,
+      "name": "Ascension Merciful Reversal owned posture bonus 4",
+      "fields": {
+        "stateInfo": 0,
+        "spCategory": 0,
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1.32,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0
+      }
+    },
+    {
+      "id": 95005404,
+      "name": "Ascension Merciful Reversal owned posture bonus 5",
+      "fields": {
+        "stateInfo": 0,
+        "spCategory": 0,
+        "effectEndurance": -1,
+        "motionInterval": 0,
+        "cycleOccurrenceSpEffectId": -1,
+        "replaceSpEffectId": -1,
+        "atkOccurrenceSpEffectId": -1,
+        "applyIdOnGetSoul": 0,
+        "iconId": -1,
+        "vfxId": -1,
+        "vfxId1": -1,
+        "changeHpRate": 0,
+        "changeHpPoint": 0,
+        "changeMpRate": 0,
+        "changeMpPoint": 0,
+        "changeStaminaRate": 0,
+        "changeStaminaPoint": 0,
+        "soulRate": 1,
+        "staminaRecoverChangeSpeed": 0,
+        "consumeStaminaRate": 1,
+        "saAttackPowerRate": 1.44,
+        "magicAttackRate": 1,
+        "magicConsumptionRate": 1,
+        "miracleConsumptionRate": 1,
+        "accumuVal": 0,
+        "accumuOverVal": -1,
+        "accumuOverFireId": -1,
+        "accumuUnderVal": -1,
+        "accumuUnderFireId": -1,
+        "invocationConditionsStateChange1": 0,
+        "invocationConditionsStateChange2": 0,
+        "invocationConditionsStateChange3": 0,
+        "effectTargetEnemy": 0
+      }
+    },
+    {
+      "id": 95050000,
+      "name": "Ascension runtime v3 0",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050001,
+      "name": "Ascension runtime v3 1",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050002,
+      "name": "Ascension runtime v3 2",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050003,
+      "name": "Ascension runtime v3 3",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050004,
+      "name": "Ascension runtime v3 4",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050005,
+      "name": "Ascension runtime v3 5",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050006,
+      "name": "Ascension runtime v3 6",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050007,
+      "name": "Ascension runtime v3 7",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050008,
+      "name": "Ascension runtime v3 8",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050009,
+      "name": "Ascension runtime v3 9",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050010,
+      "name": "Ascension runtime v3 10",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050011,
+      "name": "Ascension runtime v3 11",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050012,
+      "name": "Ascension runtime v3 12",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050013,
+      "name": "Ascension runtime v3 13",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050014,
+      "name": "Ascension runtime v3 14",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050015,
+      "name": "Ascension runtime v3 15",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050016,
+      "name": "Ascension runtime v3 16",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050017,
+      "name": "Ascension runtime v3 17",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050018,
+      "name": "Ascension runtime v3 18",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050019,
+      "name": "Ascension runtime v3 19",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050020,
+      "name": "Ascension runtime v3 20",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050021,
+      "name": "Ascension runtime v3 21",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050022,
+      "name": "Ascension runtime v3 22",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050023,
+      "name": "Ascension runtime v3 23",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050024,
+      "name": "Ascension runtime v3 24",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050025,
+      "name": "Ascension runtime v3 25",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050026,
+      "name": "Ascension runtime v3 26",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050027,
+      "name": "Ascension runtime v3 27",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050028,
+      "name": "Ascension runtime v3 28",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050029,
+      "name": "Ascension runtime v3 29",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050030,
+      "name": "Ascension runtime v3 30",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050031,
+      "name": "Ascension runtime v3 31",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050032,
+      "name": "Ascension runtime v3 32",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050033,
+      "name": "Ascension runtime v3 33",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050034,
+      "name": "Ascension runtime v3 34",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050035,
+      "name": "Ascension runtime v3 35",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050036,
+      "name": "Ascension runtime v3 36",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050037,
+      "name": "Ascension runtime v3 37",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050038,
+      "name": "Ascension runtime v3 38",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050039,
+      "name": "Ascension runtime v3 39",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050040,
+      "name": "Ascension runtime v3 40",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050041,
+      "name": "Ascension runtime v3 41",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050042,
+      "name": "Ascension runtime v3 42",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050043,
+      "name": "Ascension runtime v3 43",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050044,
+      "name": "Ascension runtime v3 44",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050045,
+      "name": "Ascension runtime v3 45",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050046,
+      "name": "Ascension runtime v3 46",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050047,
+      "name": "Ascension runtime v3 47",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95030001,
+      "name": "Ascension boss ascension tier 1",
+      "fields": {
+        "maxHpRate": 2.0,
+        "physicsAttackRate": 1.225,
+        "magicAttackRate": 1.225,
+        "fireAttackRate": 1.225,
+        "thunderAttackRate": 1.225,
+        "darkAttackRate": 1.225,
+        "effectTargetEnemy": 1,
+        "effectTargetPlayer": 0,
+        "effectTargetAI": 1,
+        "bCurrHPIndependeMaxHP": 0
+      }
+    },
+    {
+      "id": 95030002,
+      "name": "Ascension boss ascension tier 2",
+      "fields": {
+        "maxHpRate": 2.0,
+        "physicsAttackRate": 1.225,
+        "magicAttackRate": 1.225,
+        "fireAttackRate": 1.225,
+        "thunderAttackRate": 1.225,
+        "darkAttackRate": 1.225,
+        "effectTargetEnemy": 1,
+        "effectTargetPlayer": 0,
+        "effectTargetAI": 1,
+        "bCurrHPIndependeMaxHP": 0
+      }
+    },
+    {
+      "id": 95030003,
+      "name": "Ascension boss ascension tier 3",
+      "fields": {
+        "maxHpRate": 2.0,
+        "physicsAttackRate": 1.225,
+        "magicAttackRate": 1.225,
+        "fireAttackRate": 1.225,
+        "thunderAttackRate": 1.225,
+        "darkAttackRate": 1.225,
+        "effectTargetEnemy": 1,
+        "effectTargetPlayer": 0,
+        "effectTargetAI": 1,
+        "bCurrHPIndependeMaxHP": 0
+      }
+    },
+    {
+      "id": 95030004,
+      "name": "Ascension NG+ boss affix relentless",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95030005,
+      "name": "Ascension NG+ boss affix ironclad",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95030006,
+      "name": "Ascension NG+ boss affix spellward",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95030007,
+      "name": "Ascension NG+ boss affix frenzied",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95030008,
+      "name": "Ascension NG+ boss affix regenerating",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95030009,
+      "name": "Ascension NG+ boss affix adaptive physical",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95030010,
+      "name": "Ascension NG+ boss affix adaptive magic",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95030011,
+      "name": "Ascension NG+ boss affix adaptive fire",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95030012,
+      "name": "Ascension NG+ boss affix adaptive lightning",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95030013,
+      "name": "Ascension NG+ boss affix adaptive holy",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050048,
+      "name": "Ascension status surge poison",
+      "template_id": 6500,
+      "fields": {
+        "poizonAttackPower": 0,
+        "iconId": -1,
+        "wepParamChange": 0,
+        "effectTargetSelf": 1,
+        "effectTargetFriend": 1,
+        "effectTargetEnemy": 1,
+        "effectTargetPlayer": 1,
+        "effectTargetAI": 1,
+        "effectTargetLive": 1,
+        "effectTargetGhost": 1,
+        "effectTargetSelfTarget": 1,
+        "effectTargetFriendlyTarget": 1,
+        "effectTargetOpposeTarget": 1,
+        "isUseStatusAilmentAtkPowerCorrect": 0
+      }
+    },
+    {
+      "id": 95050049,
+      "name": "Ascension status surge scarlet_rot",
+      "template_id": 6600,
+      "fields": {
+        "diseaseAttackPower": 0,
+        "iconId": -1,
+        "wepParamChange": 0,
+        "effectTargetSelf": 1,
+        "effectTargetFriend": 1,
+        "effectTargetEnemy": 1,
+        "effectTargetPlayer": 1,
+        "effectTargetAI": 1,
+        "effectTargetLive": 1,
+        "effectTargetGhost": 1,
+        "effectTargetSelfTarget": 1,
+        "effectTargetFriendlyTarget": 1,
+        "effectTargetOpposeTarget": 1,
+        "isUseStatusAilmentAtkPowerCorrect": 0
+      }
+    },
+    {
+      "id": 95050050,
+      "name": "Ascension status surge blood_loss",
+      "template_id": 6400,
+      "fields": {
+        "bloodAttackPower": 0,
+        "iconId": -1,
+        "wepParamChange": 0,
+        "effectTargetSelf": 1,
+        "effectTargetFriend": 1,
+        "effectTargetEnemy": 1,
+        "effectTargetPlayer": 1,
+        "effectTargetAI": 1,
+        "effectTargetLive": 1,
+        "effectTargetGhost": 1,
+        "effectTargetSelfTarget": 1,
+        "effectTargetFriendlyTarget": 1,
+        "effectTargetOpposeTarget": 1,
+        "isUseStatusAilmentAtkPowerCorrect": 0
+      }
+    },
+    {
+      "id": 95050051,
+      "name": "Ascension status surge death_blight",
+      "template_id": 6800,
+      "fields": {
+        "curseAttackPower": 0,
+        "iconId": -1,
+        "wepParamChange": 0,
+        "effectTargetSelf": 1,
+        "effectTargetFriend": 1,
+        "effectTargetEnemy": 1,
+        "effectTargetPlayer": 1,
+        "effectTargetAI": 1,
+        "effectTargetLive": 1,
+        "effectTargetGhost": 1,
+        "effectTargetSelfTarget": 1,
+        "effectTargetFriendlyTarget": 1,
+        "effectTargetOpposeTarget": 1,
+        "isUseStatusAilmentAtkPowerCorrect": 0
+      }
+    },
+    {
+      "id": 95050052,
+      "name": "Ascension status surge frostbite",
+      "template_id": 6700,
+      "fields": {
+        "freezeAttackPower": 0,
+        "iconId": -1,
+        "wepParamChange": 0,
+        "effectTargetSelf": 1,
+        "effectTargetFriend": 1,
+        "effectTargetEnemy": 1,
+        "effectTargetPlayer": 1,
+        "effectTargetAI": 1,
+        "effectTargetLive": 1,
+        "effectTargetGhost": 1,
+        "effectTargetSelfTarget": 1,
+        "effectTargetFriendlyTarget": 1,
+        "effectTargetOpposeTarget": 1,
+        "isUseStatusAilmentAtkPowerCorrect": 0
+      }
+    },
+    {
+      "id": 95050053,
+      "name": "Ascension status surge sleep",
+      "template_id": 6450,
+      "fields": {
+        "sleepAttackPower": 0,
+        "iconId": -1,
+        "wepParamChange": 0,
+        "effectTargetSelf": 1,
+        "effectTargetFriend": 1,
+        "effectTargetEnemy": 1,
+        "effectTargetPlayer": 1,
+        "effectTargetAI": 1,
+        "effectTargetLive": 1,
+        "effectTargetGhost": 1,
+        "effectTargetSelfTarget": 1,
+        "effectTargetFriendlyTarget": 1,
+        "effectTargetOpposeTarget": 1,
+        "isUseStatusAilmentAtkPowerCorrect": 0
+      }
+    },
+    {
+      "id": 95050054,
+      "name": "Ascension status surge madness",
+      "template_id": 6750,
+      "fields": {
+        "madnessAttackPower": 0,
+        "iconId": -1,
+        "wepParamChange": 0,
+        "effectTargetSelf": 1,
+        "effectTargetFriend": 1,
+        "effectTargetEnemy": 1,
+        "effectTargetPlayer": 1,
+        "effectTargetAI": 1,
+        "effectTargetLive": 1,
+        "effectTargetGhost": 1,
+        "effectTargetSelfTarget": 1,
+        "effectTargetFriendlyTarget": 1,
+        "effectTargetOpposeTarget": 1,
+        "isUseStatusAilmentAtkPowerCorrect": 0
+      }
+    },
+    {
+      "id": 95050060,
+      "name": "Ascension Ferocity charged attacks (Axe Talisman copy)",
+      "template_id": 321300,
+      "fields": {
+        "iconId": -1
+      }
+    },
+    {
+      "id": 95050061,
+      "name": "Ascension Ferocity jump attacks (Claw Talisman copy)",
+      "template_id": 321800,
+      "fields": {
+        "iconId": -1
+      }
+    },
+    {
+      "id": 95050062,
+      "name": "Ascension Ferocity criticals (Dagger Talisman copy)",
+      "template_id": 320900,
+      "fields": {
+        "iconId": -1
+      }
+    },
+    {
+      "id": 95050070,
+      "name": "Ascension world Tide 0",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050071,
+      "name": "Ascension world Tide 1",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050072,
+      "name": "Ascension world Tide 2",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050073,
+      "name": "Ascension world Tide 3",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050074,
+      "name": "Ascension world Tide 4",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050075,
+      "name": "Ascension world Tide 5",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050076,
+      "name": "Ascension world Tide 6",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050077,
+      "name": "Ascension world Tide 7",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050078,
+      "name": "Ascension world Tide 8",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050079,
+      "name": "Ascension world Tide 9",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050080,
+      "name": "Ascension world Tide 10",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050081,
+      "name": "Ascension Malice mark",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050082,
+      "name": "Ascension Lingering Curse",
+      "fields": {
+        "effectEndurance": -1
+      }
+    },
+    {
+      "id": 95050090,
+      "name": "Ascension Command allies",
+      "fields": {
+        "effectEndurance": -1
+      }
+    }
+  ]
+}

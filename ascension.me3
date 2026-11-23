@@ -1,0 +1,15 @@
+profileVersion = "v1"
+savefile = "ER0000.ascension.sl2"
+start_online = false
+disable_arxan = false
+
+[[supports]]
+game = "eldenring"
+
+[[natives]]
+path = "dist/ascension.dll"
+initializer = { function = "ascension_init" }
+
+[[packages]]
+id = "ascension-data"
+path = "mod"
